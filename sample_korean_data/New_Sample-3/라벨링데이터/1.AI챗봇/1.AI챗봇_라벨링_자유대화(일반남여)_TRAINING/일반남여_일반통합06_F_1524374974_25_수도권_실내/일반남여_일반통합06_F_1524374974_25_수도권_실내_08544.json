@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "채식 식단은 식이섬유와 칼륨 등 영양소가 풍부해서 (NO:고혈압)을 비롯한 (NO:심)혈관 질환을 예방하는데 도움을 줘요",
+    "scriptId" : "일반통합-08544",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08544.wav",
+    "recrdTime" : "8.360",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:59:58",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

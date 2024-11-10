@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이모 결혼식에 갔는데 하얀 드레스를 입고 있어서 너무 예뻤어요 ",
+    "scriptId" : "소아남녀-01349",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01349.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:21:34",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "결혼식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

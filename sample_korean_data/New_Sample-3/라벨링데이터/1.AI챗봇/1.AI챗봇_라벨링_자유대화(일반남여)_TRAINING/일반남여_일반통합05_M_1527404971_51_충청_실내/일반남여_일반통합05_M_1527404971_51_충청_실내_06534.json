@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 그럼 다인실은 해외여행갈 때 묶었던 도미토리 같은 거겠네",
+    "scriptId" : "일반통합-06534",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06534.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 17:50:12",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 조금만 더워도 땀이 많이 나는 체질이라 데오드란트도 뿌리고 그러는데 큰 효과는 없는 거 같아",
+    "scriptId" : "일반통합-06404",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06404.wav",
+    "recrdTime" : "11.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 17:23:03",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

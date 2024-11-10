@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저희 저는 저희 학교 이십사회 입상(SP:)입학생이에요 ",
+    "scriptId" : "소아남녀-00620",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00620.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 17:04:55",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "우리 학교"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

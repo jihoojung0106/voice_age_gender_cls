@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나름의 방법을 찾아야지 예전에 나 아는 요가 선생은 아무것도 하지 말고 삼십 분씩 공원에 나가 있으라고 했어 ",
+    "scriptId" : "일반통합-08506",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08506.wav",
+    "recrdTime" : "8.450",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:57:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "번 아웃 증후군 퇴치법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

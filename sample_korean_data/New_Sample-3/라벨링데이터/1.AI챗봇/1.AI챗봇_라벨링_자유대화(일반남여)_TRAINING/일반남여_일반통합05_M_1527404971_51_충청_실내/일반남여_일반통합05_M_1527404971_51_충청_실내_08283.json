@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 가취관 가벼운 취향 중심으로 관계를 맺는 걸 가취관이라고 한대 ",
+    "scriptId" : "일반통합-08283",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08283.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 17:44:56",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "엠비티아이(MBTI) 유행 이유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

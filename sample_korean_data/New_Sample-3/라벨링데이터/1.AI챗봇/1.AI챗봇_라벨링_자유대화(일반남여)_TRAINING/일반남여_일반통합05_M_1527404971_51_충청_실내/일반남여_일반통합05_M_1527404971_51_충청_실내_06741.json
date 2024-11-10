@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "먹는 것도 좋아하면 반은 먹고 반은 피부에 양보하면 되잖아",
+    "scriptId" : "일반통합-06741",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06741.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:28:34",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

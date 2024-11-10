@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "수술하고 며칠 지나서부터 평행봉 잡고 걷는 연습 시작하셨지 ",
+    "scriptId" : "일반통합-08678",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08678.wav",
+    "recrdTime" : "5.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:13:12",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "인공관절 수술에 대하여"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

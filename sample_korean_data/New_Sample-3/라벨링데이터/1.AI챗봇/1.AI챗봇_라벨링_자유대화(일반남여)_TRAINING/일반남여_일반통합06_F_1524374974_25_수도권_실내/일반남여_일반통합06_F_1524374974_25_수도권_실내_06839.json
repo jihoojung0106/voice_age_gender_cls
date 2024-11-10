@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "올레산이 굳어진 변을 부드럽게 풀어주고 장 내벽을 미끄럽게 만들어줘서 숙변 배출에 도움이 되거든",
+    "scriptId" : "일반통합-06839",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06839.wav",
+    "recrdTime" : "9.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 23:57:08",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "괜찮은지 아닌지는 몰라도 전 디저트 이런 거 다 먹어도 살이 빠지더라고요 ",
+    "scriptId" : "일반통합-07794",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07794.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:11:57",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

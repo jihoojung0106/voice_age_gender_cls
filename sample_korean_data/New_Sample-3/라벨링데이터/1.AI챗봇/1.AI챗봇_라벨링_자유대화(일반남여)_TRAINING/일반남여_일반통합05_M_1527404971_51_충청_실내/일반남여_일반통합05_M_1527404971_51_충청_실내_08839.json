@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "루프톱 텐트는 차량 지붕에 설치하는 거니까 그런 영향에서 비교적 자유로울 순 있겠다",
+    "scriptId" : "일반통합-08839",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08839.wav",
+    "recrdTime" : "9.210",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:33:41",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그치 요는 현대사회는 저널리즘에 실패했고 현대인들은 뉴스에 중독됐다는 거야 ",
+    "scriptId" : "일반통합-08228",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08228.wav",
+    "recrdTime" : "9.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 12:43:11",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "뉴스 다이어트 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

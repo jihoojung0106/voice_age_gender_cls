@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇게까지는 아니어도 혼자 있는 시간을 갖고 생각한 대로 행동하고 그러라는 거지 ",
+    "scriptId" : "일반통합-08490",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08490.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:56:06",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "번 아웃 증후군 퇴치법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

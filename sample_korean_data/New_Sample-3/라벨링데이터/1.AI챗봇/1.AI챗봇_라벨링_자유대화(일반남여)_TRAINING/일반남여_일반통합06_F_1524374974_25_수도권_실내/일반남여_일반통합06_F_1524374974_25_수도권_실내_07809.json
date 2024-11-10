@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "제가 일부러 임상한 거니까 나 보고 도전해 봐요 ",
+    "scriptId" : "일반통합-07809",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07809.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:12:49",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 나중에 아이를 낳아도 비싼 학원 보내는 대신 여행을 많이 시켜주고 싶어 ",
+    "scriptId" : "일반통합-09184",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09184.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:29:05",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

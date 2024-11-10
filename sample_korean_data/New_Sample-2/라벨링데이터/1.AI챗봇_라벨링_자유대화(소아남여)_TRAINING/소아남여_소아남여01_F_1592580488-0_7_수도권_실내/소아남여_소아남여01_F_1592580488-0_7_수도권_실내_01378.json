@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마는 경치가 좋다고 병산서원을 좋아하셨어",
+    "scriptId" : "소아남녀-01378",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01378.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 11:27:21",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "안동"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

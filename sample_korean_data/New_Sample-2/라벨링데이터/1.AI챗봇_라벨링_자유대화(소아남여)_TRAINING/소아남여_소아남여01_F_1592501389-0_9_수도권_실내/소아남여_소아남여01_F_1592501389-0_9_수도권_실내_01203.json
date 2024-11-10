@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "고모한테 할 말 있는데 전(SP:화)해 주세요 ",
+    "scriptId" : "소아남녀-01203",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01203.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:52:58",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "질문 및 요청"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

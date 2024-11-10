@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러니까 난리였지 다 녹고 버리고 먹을 거 없어서 며칠 외식만하고 난리였어 ",
+    "scriptId" : "일반통합-07749",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07749.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:44:06",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "이사 중 사고 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

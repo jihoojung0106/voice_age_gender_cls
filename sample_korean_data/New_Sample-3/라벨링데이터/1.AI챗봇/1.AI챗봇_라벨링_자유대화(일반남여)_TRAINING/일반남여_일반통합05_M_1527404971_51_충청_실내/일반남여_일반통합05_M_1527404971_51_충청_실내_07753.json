@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "당연하지 아무 일 없어도 이사하면 삭신이 쑤시는데",
+    "scriptId" : "일반통합-07753",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07753.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:44:34",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "이사 중 사고 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

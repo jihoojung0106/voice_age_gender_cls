@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아까 에피소드들을 나열하고 그 중에 쓸 것과 안쓸 거를 나누고 쓸 것 중에 순서를 정하는 거야 ",
+    "scriptId" : "일반통합-08346",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08346.wav",
+    "recrdTime" : "8.620",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 15:40:45",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

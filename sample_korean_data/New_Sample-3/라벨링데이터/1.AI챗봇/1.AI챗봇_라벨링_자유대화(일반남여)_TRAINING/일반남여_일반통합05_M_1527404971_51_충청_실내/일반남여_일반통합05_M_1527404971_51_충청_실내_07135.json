@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "콜라가 무슨 휘발유라도 돼 페인트를 지우는데는 휘발유가 최고지 ",
+    "scriptId" : "일반통합-07135",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07135.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:34:56",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

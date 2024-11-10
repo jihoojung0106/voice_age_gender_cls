@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아이구 살살해 근데 고기 어떻게 먹어 완전 익혀서 먹어",
+    "scriptId" : "일반통합-08102",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08102.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 15:20:52",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "스테이크 잘 굽는 법 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

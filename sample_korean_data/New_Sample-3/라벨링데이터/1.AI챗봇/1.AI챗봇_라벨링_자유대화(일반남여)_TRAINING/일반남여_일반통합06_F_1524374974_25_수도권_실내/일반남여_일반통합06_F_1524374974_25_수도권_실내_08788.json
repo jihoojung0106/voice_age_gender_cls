@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "식사하고 나서 최소한 삼십 분 정도 지나서 마시는 게 좋대 ",
+    "scriptId" : "일반통합-08788",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08788.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:35:37",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

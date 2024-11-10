@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 미국의 어떤 부부도 엄청난 액수의 복권에 당첨됐는데 하나도 변한 게 없이 살고 있다던데 ",
+    "scriptId" : "일반통합-09199",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09199.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 19:46:52",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

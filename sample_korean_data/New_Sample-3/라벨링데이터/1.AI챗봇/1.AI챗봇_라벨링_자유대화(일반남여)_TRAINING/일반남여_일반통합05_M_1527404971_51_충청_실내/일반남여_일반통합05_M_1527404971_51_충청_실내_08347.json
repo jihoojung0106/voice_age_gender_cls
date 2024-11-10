@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "와 그러니까 글자를 쓰기 전에 글쓰기는 다 끝나 있는거구나 ",
+    "scriptId" : "일반통합-08347",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08347.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 17:57:23",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

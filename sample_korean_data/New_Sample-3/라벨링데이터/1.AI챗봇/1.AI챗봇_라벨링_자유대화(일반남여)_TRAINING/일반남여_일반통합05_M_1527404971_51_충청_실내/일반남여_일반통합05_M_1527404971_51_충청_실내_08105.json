@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 요즘 그렇게 시켜 먹어 일 분 이십 초씩 구우면 미디엄 레어가 되는 거지",
+    "scriptId" : "일반통합-08105",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08105.wav",
+    "recrdTime" : "8.530",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:24:11",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "스테이크 잘 굽는 법 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "고양이는 왜 털을 핥는 거예요",
+    "scriptId" : "소아남녀-01308",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01308.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:02:32",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "호기심"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

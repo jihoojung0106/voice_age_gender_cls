@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)하긴 그래도 통장에 당첨금이 떡하니 들어있으면 지금처럼 쪼들리는 느낌은 아니겠지",
+    "scriptId" : "일반통합-09195",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09195.wav",
+    "recrdTime" : "8.960",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:29:52",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

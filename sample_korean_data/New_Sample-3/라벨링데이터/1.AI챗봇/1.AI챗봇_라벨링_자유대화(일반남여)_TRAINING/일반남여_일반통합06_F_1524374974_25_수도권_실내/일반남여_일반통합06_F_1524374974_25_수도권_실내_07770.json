@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지금 일 년 돼 가는데 한 사 킬로그램 정도 빠진 거 (NO:같아요)",
+    "scriptId" : "일반통합-07770",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07770.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:08:57",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

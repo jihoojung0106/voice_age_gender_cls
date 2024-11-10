@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "들키지 않으려고 살금살금 걸어 갔어요 ",
+    "scriptId" : "소아남녀-01531",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01531.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 16:14:17",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

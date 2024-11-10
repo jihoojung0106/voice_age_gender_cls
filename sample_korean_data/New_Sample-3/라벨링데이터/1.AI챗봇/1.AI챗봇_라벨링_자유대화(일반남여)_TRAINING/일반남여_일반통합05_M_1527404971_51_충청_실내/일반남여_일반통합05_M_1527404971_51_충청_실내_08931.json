@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "눈물 콧물 흘리면서 한 그릇 뚝딱 먹고나면 스트레스 어디 갔냐고 ",
+    "scriptId" : "일반통합-08931",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08931.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:45:37",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

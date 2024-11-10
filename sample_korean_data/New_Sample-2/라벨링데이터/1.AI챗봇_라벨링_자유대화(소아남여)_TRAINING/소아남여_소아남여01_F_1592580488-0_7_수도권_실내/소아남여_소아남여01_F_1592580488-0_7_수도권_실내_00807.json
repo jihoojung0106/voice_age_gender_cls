@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "도서관에 있는 선생님이 책을 읽어주세요",
+    "scriptId" : "소아남녀-00807",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00807.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 10:31:41",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "도서관"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

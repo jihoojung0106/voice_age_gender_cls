@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다만 땅에서 올라오는 한기에 약하고 눈비가 많이 올 경우엔 설치가 어렵다는 단점이 있어",
+    "scriptId" : "일반통합-08838",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08838.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 13:15:58",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

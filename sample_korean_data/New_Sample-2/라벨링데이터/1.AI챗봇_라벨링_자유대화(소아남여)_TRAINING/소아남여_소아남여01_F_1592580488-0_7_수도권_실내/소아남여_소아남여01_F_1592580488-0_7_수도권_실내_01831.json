@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어제 미장원에 가서 곱슬곱슬하게 파마했어요 ",
+    "scriptId" : "소아남녀-01831",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01831.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-25 10:13:36",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외모와 옷차림"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

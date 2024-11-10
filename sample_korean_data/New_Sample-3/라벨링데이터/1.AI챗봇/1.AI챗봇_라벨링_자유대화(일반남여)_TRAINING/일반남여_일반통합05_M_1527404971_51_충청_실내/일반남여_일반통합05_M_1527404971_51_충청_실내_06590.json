@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "입출금 통장의 금리가 너무 낮아서 조금이라도 더 이자를 받을 수 있으면 좋지",
+    "scriptId" : "일반통합-06590",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06590.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:05:47",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

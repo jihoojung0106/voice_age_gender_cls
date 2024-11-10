@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내 짝꿍은 커서 댄스 가수가 되고 싶대요 ",
+    "scriptId" : "소아남녀-00833",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00833.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 12:57:40",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "친구"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

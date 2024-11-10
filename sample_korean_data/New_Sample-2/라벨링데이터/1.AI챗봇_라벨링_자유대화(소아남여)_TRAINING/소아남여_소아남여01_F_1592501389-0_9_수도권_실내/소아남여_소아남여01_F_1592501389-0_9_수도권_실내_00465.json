@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "할머니가 어린이날이라고 용돈을 주셨어요",
+    "scriptId" : "소아남녀-00465",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00465.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 12:27:40",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "선물"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 중요한 결정 구조는 다 자기가 쥐고 있으면서 나한테 할거냐고 하면 어떻게 해",
+    "scriptId" : "일반통합-09402",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_09402.wav",
+    "recrdTime" : "8.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 20:52:54",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

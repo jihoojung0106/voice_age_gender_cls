@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "물론 너무 돈이 없어도 힘들겠지만 어느 정도 이상이 되면 큰 차이가 없다 더라고",
+    "scriptId" : "일반통합-09206",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_09206.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 16:37:55",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

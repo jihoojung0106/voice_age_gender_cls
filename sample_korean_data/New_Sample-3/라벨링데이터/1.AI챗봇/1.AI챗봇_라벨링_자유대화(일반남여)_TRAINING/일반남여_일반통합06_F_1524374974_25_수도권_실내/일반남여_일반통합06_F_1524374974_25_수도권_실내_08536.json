@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "건강하고 칼로리가 낮은 식품을 주로 먹기 때문에 소화도 잘되고 다이어트에도 효과가 있거든요",
+    "scriptId" : "일반통합-08536",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08536.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:59:30",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

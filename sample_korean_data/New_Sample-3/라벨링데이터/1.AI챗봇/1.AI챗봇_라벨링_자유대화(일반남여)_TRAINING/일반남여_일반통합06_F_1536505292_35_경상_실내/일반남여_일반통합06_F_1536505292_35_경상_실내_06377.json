@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "래도 해외에서는 천 구백 칠십년대까지는 구강청결제를 가글 목적으로 판매하지 않았어",
+    "scriptId" : "일반통합-06377",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06377.wav",
+    "recrdTime" : "8.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:12:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

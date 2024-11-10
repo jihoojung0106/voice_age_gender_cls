@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "너 나랑 좀 통한다 비빔면 다음으로 내가 좋아하는 야식은 역시 치느님 ",
+    "scriptId" : "일반통합-09028",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09028.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 18:25:49",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "맛있는 야식 꿀조합"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

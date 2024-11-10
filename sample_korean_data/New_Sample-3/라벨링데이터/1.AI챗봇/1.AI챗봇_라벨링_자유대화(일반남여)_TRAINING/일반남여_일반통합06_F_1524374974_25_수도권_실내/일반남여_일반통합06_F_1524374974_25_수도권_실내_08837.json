@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일반 텐트가 비교적 가격도 저렴하고 원하는 크기의 텐트를 설치할 수 있다는 장점도 있지",
+    "scriptId" : "일반통합-08837",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08837.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:39:28",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

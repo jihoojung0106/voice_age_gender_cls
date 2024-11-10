@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:그나마) 코로나 바이러스는 변이가 생겨도 백신을 무력화할 만큼 그렇게 변이가 심한 바이(NO:러스는) 아니라네",
+    "scriptId" : "일반통합-08156",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08156.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:58:29",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

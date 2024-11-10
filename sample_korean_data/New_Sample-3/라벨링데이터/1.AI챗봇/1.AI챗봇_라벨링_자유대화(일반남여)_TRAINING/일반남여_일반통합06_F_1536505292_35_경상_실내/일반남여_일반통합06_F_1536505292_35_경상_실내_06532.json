@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "숙소 종류는 세가지가 있는데 집 전체 개인실 다인실이야",
+    "scriptId" : "일반통합-06532",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06532.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:36:59",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그건 그렇지만 그래도 도움이 될 만한 음식 종류는 좀 알아 두는 게 좋을 것 같아 ",
+    "scriptId" : "일반통합-08650",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08650.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:10:00",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

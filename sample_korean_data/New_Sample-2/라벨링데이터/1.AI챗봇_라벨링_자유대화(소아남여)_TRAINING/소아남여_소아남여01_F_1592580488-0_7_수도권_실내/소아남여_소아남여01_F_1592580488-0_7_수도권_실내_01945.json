@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "티가 작아졌어요 새로 하나 사 줘요  ",
+    "scriptId" : "소아남녀-01945",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01945.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-25 11:03:45",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "옷을 갈아 입을 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

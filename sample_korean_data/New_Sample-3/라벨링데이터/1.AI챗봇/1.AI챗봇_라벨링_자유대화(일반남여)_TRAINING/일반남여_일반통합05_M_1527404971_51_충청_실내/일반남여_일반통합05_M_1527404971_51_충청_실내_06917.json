@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "커피에서 살짝 신맛이 나는 거 같아서 처음에는 어색했는데 마시다보니 매력이 있네",
+    "scriptId" : "일반통합-06917",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06917.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 21:17:48",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

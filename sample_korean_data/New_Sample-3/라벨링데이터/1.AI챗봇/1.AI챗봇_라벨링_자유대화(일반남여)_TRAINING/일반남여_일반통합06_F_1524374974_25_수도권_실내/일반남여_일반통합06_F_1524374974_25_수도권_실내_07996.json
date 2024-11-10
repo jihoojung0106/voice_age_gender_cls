@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "와 기대되는데 좀 더 구체적으로 얘기하면 집 안으로 온 게 뭔 상징이 아닐까",
+    "scriptId" : "일반통합-07996",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07996.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:32:42",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "꿈해몽 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "거울을 볼 때(SN:) 자기가 예쁘다고 생각하니 ",
+    "scriptId" : "소아남녀-01855",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01855.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-25 10:21:09",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외모와 옷차림"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

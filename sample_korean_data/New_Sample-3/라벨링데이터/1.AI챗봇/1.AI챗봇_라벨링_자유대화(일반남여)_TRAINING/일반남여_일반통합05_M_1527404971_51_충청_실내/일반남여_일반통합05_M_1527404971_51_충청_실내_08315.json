@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 뭐 에이포 용지 한 장 분량으로 글을 써달라는데 엄두가 안난다",
+    "scriptId" : "일반통합-08315",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08315.wav",
+    "recrdTime" : "7.422",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 17:48:41",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

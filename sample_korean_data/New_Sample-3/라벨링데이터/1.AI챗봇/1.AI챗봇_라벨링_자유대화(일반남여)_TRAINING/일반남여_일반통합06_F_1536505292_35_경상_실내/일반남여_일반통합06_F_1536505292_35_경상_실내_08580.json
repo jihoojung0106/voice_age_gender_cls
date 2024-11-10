@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그치 나도 뭔가 생소한 느낌 같은 게 있더라 ",
+    "scriptId" : "일반통합-08580",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08580.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 21:23:29",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

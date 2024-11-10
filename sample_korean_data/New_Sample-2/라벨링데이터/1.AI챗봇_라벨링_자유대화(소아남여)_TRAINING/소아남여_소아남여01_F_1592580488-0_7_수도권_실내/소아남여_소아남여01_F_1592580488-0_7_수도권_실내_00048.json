@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 방학에 수영 배울 거야",
+    "scriptId" : "소아남녀-00048",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00048.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 19:17:59",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "방학 계획"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

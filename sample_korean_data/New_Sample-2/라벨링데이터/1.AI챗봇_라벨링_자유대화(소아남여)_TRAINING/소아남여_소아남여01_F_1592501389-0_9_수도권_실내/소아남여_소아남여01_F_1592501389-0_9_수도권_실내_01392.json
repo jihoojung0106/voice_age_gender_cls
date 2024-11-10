@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)오일장은 오일에 한 번 시장이 열린다고 해서 오일장이래",
+    "scriptId" : "소아남녀-01392",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01392.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 15:28:17",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "봉평"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리 애가 너희 집에 가서 카레를 먹고 오더니 나더러 너한테가서 배워오라네",
+    "scriptId" : "일반통합-06615",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06615.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:09:05",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "카레에서 고기 잡내 없애기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 매운 음식을 먹으면 통증에 대응하기 위해서 우리 몸에서 엔도르핀을 분비하는 거야 ",
+    "scriptId" : "일반통합-08917",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08917.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 17:21:20",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그게 걔랑 막 대화를 하게 되고 쑥쑥 자라면 그렇게 뿌듯할 수가 없어 ",
+    "scriptId" : "일반통합-07890",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07890.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 22:01:39",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소확행 단어 학습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

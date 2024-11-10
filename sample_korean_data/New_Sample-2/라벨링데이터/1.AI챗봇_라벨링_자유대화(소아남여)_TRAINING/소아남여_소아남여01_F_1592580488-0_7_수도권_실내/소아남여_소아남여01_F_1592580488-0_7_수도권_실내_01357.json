@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "콧물이 계속 나서 병원에 갔는데 의사 선생님이 비염이래요",
+    "scriptId" : "소아남녀-01357",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01357.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:23:27",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "이비인후과"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

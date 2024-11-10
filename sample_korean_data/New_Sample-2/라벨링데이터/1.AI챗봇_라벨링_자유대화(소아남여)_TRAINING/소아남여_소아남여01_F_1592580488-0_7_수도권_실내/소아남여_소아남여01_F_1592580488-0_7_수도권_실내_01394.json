@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "수족관에서 고래도 봤는데 고래들이 공을 가지고 놀고 있었어",
+    "scriptId" : "소아남녀-01394",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01394.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 11:36:32",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "울산"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

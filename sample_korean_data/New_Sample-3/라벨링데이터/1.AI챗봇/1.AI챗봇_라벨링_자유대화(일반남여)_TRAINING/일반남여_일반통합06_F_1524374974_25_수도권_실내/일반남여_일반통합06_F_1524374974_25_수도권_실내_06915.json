@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지난번 뉴욕 여행 갔을 때 사온 건데 커피 특유의 산미가 좋아서 (NO:사)왔거든",
+    "scriptId" : "일반통합-06915",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06915.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:10:25",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

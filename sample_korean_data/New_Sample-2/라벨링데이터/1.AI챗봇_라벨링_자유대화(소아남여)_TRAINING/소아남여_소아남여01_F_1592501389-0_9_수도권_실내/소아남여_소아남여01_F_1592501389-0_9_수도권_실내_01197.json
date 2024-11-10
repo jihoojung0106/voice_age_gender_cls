@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나 이제 구구단 다 알아 구구단 외자 내가 이길 수 있어",
+    "scriptId" : "소아남녀-01197",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01197.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:50:28",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "구구단"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

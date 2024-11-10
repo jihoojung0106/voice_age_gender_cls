@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오 그렇게 말하니까 너 글쓰기 선생같아 ",
+    "scriptId" : "일반통합-08343",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08343.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-26 19:46:07",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

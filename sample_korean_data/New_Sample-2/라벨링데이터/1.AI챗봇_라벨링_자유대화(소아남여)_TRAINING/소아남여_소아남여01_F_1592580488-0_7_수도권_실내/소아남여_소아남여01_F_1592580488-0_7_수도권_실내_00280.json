@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "월요일은 방과후에 창의 미술 수업을 들어요 ",
+    "scriptId" : "소아남녀-00280",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00280.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 12:01:57",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "방과후 수업"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

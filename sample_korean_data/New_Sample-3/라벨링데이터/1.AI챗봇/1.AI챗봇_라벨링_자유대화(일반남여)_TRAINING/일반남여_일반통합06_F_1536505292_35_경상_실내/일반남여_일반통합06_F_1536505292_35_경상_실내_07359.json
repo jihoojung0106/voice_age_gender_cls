@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:알았어 )가스레인지와 에틸알코올 생각만해도 소름 끼친다 ",
+    "scriptId" : "일반통합-07359",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_07359.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 08:46:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그만큼 인간에 대한 이해의 폭이 좁아지겠군 맞네 그 의견",
+    "scriptId" : "일반통합-08290",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08290.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 12:33:19",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "엠비티아이(MBTI) 유행 이유"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

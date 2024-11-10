@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이번에 새로 산 책이 너무 어려워서 다 못 읽겠어요",
+    "scriptId" : "소아남녀-01231",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01231.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 08:32:38",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "질문 및 요청"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

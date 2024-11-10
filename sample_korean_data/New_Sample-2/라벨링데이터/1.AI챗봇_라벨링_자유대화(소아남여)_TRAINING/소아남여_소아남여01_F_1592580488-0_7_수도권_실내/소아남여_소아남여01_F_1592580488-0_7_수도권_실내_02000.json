@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "와플이랑 바나나 우유 먹고 싶어   ",
+    "scriptId" : "소아남녀-02000",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_02000.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-25 11:24:16",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "인사/간식 먹기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

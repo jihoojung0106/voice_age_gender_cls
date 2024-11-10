@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "변이 굳는 것뿐만 아니라 (NO:) 소화 시간이 오래 걸리기 때문에 배변 횟수까지 감소시키거든",
+    "scriptId" : "일반통합-06825",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06825.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 23:55:40",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

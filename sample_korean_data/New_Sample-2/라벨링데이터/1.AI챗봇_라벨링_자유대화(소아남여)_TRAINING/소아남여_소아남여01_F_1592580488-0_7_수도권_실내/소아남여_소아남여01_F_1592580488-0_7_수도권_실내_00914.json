@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:횡)단보도에서는 일단 멈추고 좌우를 살펴요",
+    "scriptId" : "소아남녀-00914",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00914.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 13:40:37",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "안전교육"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

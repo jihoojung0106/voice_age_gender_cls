@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런거겠지 (NO:그나마) 찾아 봐서 길몽이면 괜찮은데 반대의 경우엔 참 낭패지 ",
+    "scriptId" : "일반통합-08010",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08010.wav",
+    "recrdTime" : "5.890",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:33:33",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "꿈해몽 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

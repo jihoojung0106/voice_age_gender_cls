@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "몰라요 까먹었어요 ",
+    "scriptId" : "소아남녀-01456",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01456.wav",
+    "recrdTime" : "3.071",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 15:54:39",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기분이나 감정 표현하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

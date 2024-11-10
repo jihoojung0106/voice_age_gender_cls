@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "도착할려면 얼마나 걸려요",
+    "scriptId" : "소아남녀-01089",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01089.wav",
+    "recrdTime" : "2.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:07:40",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "차 안"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

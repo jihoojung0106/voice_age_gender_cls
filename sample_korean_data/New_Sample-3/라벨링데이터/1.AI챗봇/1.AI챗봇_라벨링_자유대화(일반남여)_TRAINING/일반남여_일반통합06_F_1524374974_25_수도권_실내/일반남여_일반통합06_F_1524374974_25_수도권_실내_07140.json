@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:콜라)를 천에 적셔서 잠시 동안 녹슨 볼트를 감싸줘",
+    "scriptId" : "일반통합-07140",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07140.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:02:10",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

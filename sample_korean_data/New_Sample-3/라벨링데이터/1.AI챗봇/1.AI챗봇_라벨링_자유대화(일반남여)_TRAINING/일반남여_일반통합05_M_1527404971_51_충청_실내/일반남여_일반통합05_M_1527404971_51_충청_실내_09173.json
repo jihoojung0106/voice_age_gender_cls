@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "무려 이천이백만 달러 우리 돈으로 이백육십 억이 넘어 ",
+    "scriptId" : "일반통합-09173",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09173.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:24:17",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

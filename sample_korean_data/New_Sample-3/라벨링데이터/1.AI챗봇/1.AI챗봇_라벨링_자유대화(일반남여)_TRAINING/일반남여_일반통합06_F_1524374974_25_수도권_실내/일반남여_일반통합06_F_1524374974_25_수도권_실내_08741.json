@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "알았어 내일부턴 아침에 알람 한 번에 곧바로 침대에서 일어나서 찬물부터 한 잔 마셔야겠다 ",
+    "scriptId" : "일반통합-08741",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08741.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:30:19",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내 몸을 망치는 안 좋은 아침 습관"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

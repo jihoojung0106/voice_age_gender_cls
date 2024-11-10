@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "코로나 때문에 냉동 음식을 대폭 저장해 두려는 사람들한테도 인기래",
+    "scriptId" : "일반통합-08893",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08893.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:43:31",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이모네 갈 거예요 이모부 생신이래요",
+    "scriptId" : "소아남녀-00450",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00450.wav",
+    "recrdTime" : "2.730",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 12:25:27",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "가족 생일"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

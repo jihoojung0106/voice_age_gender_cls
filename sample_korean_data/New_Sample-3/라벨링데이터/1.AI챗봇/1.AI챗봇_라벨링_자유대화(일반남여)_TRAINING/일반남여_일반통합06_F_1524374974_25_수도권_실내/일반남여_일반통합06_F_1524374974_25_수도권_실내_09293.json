@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "티비편성표가 더는 사람들의 티비 시청 방식을 반영하지 못한다",
+    "scriptId" : "일반통합-09293",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09293.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:08:44",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외국 신문 선호도"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

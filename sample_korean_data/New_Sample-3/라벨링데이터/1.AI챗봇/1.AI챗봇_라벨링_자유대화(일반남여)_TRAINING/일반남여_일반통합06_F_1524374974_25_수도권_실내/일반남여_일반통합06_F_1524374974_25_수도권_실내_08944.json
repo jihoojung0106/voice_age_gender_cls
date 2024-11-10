@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "집에서 먹는 거니 아주 편한 옷차림으로 땡초 라면에 맥주 한잔 마시고 나면 천국이 따로 없다",
+    "scriptId" : "일반통합-08944",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08944.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 17:23:33",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

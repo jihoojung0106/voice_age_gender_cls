@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이모가 같이 쓰라고 사준 거잖아",
+    "scriptId" : "소아남녀-01162",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01162.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 18:45:27",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내 물건"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

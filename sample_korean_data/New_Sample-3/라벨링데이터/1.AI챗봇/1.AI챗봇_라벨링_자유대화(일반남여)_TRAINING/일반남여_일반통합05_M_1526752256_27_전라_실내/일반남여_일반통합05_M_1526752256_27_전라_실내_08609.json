@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "멋져 그렇게 관심 갖고 사는 게 쉬운 일은 아닌데",
+    "scriptId" : "일반통합-08609",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08609.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 13:38:15",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

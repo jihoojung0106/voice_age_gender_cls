@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "따로 운동은 안하고요(NO:)",
+    "scriptId" : "일반통합-07810",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07810.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:51:19",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

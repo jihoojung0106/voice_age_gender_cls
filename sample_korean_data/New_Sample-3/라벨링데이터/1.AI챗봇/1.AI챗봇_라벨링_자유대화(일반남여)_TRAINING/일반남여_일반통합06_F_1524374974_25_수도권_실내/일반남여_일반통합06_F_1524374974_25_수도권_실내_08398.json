@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "날 못 믿는구나 실제로 외국에서 그런 연구를 했던 걸 본 적이 있어 ",
+    "scriptId" : "일반통합-08398",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08398.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:24:44",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "공감력 높이기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

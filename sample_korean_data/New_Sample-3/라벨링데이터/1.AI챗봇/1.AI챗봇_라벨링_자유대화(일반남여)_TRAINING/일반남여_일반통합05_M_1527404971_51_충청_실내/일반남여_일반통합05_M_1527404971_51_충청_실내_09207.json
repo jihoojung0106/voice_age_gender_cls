@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)하긴 돈이 어마어마하게 많은 재벌집 회장님이라고 해서 금으로 된 쌀을 먹을 것도 아니고 ",
+    "scriptId" : "일반통합-09207",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09207.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:31:01",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이십 사시간 이용할 수 있는 무인 빨래방이라 편리하다고 하더라고",
+    "scriptId" : "일반통합-07211",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07211.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:10:05",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

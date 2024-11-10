@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "정말 좋은 방법을 터득했다 그럼 일 생기면 무조건 걸으러 나가겠구나",
+    "scriptId" : "일반통합-08454",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08454.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:12:13",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경쟁심의 명과 암"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

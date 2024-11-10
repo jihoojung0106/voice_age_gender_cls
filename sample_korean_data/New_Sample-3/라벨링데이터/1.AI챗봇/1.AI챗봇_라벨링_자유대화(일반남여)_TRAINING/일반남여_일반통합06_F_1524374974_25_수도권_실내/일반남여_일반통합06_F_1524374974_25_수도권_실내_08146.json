@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "미국도 그렇고 중국도 그렇고 삼상 실험 지원자 모집 몇 백 명 막 이래 ",
+    "scriptId" : "일반통합-08146",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08146.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:57:30",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

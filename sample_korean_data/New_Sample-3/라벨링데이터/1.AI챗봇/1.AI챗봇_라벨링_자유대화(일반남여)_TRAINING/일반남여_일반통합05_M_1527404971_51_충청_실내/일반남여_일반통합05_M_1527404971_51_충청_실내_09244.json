@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "선무공작 정훈활동 통신이나 보급 및 정비 헌병 행정 등 했나 봐 ",
+    "scriptId" : "일반통합-09244",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09244.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:37:14",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "한국전쟁 당시 참전 여성들"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

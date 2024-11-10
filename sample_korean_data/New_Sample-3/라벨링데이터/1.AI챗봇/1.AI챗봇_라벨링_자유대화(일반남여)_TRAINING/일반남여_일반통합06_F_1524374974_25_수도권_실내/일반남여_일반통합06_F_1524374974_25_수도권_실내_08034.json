@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "물론이지 가계부 쓰는 거 하고 안 쓰는 거 하고 확연하게 지출 차이 나 ",
+    "scriptId" : "일반통합-08034",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08034.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:39:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "엑셀 도전하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

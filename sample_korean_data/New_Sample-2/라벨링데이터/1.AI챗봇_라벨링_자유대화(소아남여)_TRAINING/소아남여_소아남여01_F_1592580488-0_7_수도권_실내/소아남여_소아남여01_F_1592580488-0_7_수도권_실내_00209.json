@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "학교에 아홉시까지 가려면 늦어도 일곱시 삼십분에는 일어나야 해요",
+    "scriptId" : "소아남녀-00209",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00209.wav",
+    "recrdTime" : "10.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 11:34:53",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기 소개하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

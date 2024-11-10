@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "듣다보니 지금까지 버린 커피 찌꺼(NO:기가) 너무 아까워지네 ",
+    "scriptId" : "일반통합-06958",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06958.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:13:32",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

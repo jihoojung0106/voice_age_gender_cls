@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마는 커피 마시고 나는 주스 마셨어",
+    "scriptId" : "소아남녀-00767",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00767.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-21 11:34:21",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "카페"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

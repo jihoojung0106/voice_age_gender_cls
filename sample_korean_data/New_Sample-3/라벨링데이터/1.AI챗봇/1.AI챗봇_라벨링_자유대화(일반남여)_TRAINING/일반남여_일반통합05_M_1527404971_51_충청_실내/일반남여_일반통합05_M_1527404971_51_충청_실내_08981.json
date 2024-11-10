@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)그럼 단백질 흡수율이 뛰어나서 어린이나 노약자한테도 좋다고 하던데 ",
+    "scriptId" : "일반통합-08981",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08981.wav",
+    "recrdTime" : "8.019",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 09:56:38",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

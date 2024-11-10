@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 냉장고 문 쪽은 온도 변화가 자주 생기기 때문에 그보다는 냉장고 안쪽에 보관하는 게 좋대 ",
+    "scriptId" : "일반통합-09002",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09002.wav",
+    "recrdTime" : "9.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:01:13",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

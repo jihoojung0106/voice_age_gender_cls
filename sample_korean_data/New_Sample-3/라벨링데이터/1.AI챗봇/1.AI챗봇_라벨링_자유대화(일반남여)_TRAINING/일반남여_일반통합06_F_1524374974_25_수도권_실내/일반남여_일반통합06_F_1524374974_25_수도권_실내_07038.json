@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "예전에 우리 학교 다닐 때 조선시대 임금 연대순으로 외웠던 방법 기억나",
+    "scriptId" : "일반통합-07038",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07038.wav",
+    "recrdTime" : "8.360",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:28:07",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "슬로우푸드가 좋다는 건 알고 있지만 안 그래도 바쁜데 매 끼니마다 유기농 식단을 차릴 수도 없고",
+    "scriptId" : "일반통합-06827",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06827.wav",
+    "recrdTime" : "9.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:43:11",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

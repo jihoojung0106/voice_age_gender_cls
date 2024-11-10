@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이분은 고기 없는 월요일이란 환경 운동을 시작했대 ",
+    "scriptId" : "일반통합-07544",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07544.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 18:27:38",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "독서 후기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

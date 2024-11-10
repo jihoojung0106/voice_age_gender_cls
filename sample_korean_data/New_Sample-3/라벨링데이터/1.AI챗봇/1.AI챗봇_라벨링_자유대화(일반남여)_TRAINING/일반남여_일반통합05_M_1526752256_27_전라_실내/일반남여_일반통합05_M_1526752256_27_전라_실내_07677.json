@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 거기에는 돌은 낭이지 낭은 돌이지라는 말이 있어 ",
+    "scriptId" : "일반통합-07677",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_07677.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 15:48:18",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "제주어 배우기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

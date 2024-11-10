@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "지금 콜라 안 버렸다고 나한테 핀잔준 거 면피하려고 이러는 거지",
+    "scriptId" : "일반통합-07149",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07149.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:03:06",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

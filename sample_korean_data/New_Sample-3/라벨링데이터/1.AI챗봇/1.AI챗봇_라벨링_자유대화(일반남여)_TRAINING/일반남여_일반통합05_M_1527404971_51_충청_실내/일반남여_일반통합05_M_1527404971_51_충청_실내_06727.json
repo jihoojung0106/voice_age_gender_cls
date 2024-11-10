@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "쉐이빙 크림이 따가워서 아보카도를 으깨서 섞어쓰니까 괜찮더라구",
+    "scriptId" : "일반통합-06727",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06727.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:26:01",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

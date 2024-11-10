@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그 중에서 가장 멋진 건 유격대에서 활동한 구월산 여장군으로 불린 이정희라는 분이야",
+    "scriptId" : "일반통합-09245",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09245.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:37:35",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "한국전쟁 당시 참전 여성들"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

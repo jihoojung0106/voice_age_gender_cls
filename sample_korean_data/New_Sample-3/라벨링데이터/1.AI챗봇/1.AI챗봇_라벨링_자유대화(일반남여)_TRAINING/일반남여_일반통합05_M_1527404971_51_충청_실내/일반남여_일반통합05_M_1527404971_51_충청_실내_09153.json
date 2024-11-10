@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 못난이 감자라고 가격이 다른 감자에 비해 삼분의 일 정도 밖에 안 됐거든 ",
+    "scriptId" : "일반통합-09153",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09153.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:20:58",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "생활비 아끼는 꿀팁-하자제품 구매 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

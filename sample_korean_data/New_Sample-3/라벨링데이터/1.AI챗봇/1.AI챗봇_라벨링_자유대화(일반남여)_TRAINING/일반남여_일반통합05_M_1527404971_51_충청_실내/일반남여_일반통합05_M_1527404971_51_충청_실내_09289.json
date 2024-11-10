@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "참 뉴욕타임스에서 팔십 일년 만에 지면에서 티브이 편성표를 없애기로 했다며",
+    "scriptId" : "일반통합-09289",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09289.wav",
+    "recrdTime" : "9.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:43:53",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외국 신문 선호도"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

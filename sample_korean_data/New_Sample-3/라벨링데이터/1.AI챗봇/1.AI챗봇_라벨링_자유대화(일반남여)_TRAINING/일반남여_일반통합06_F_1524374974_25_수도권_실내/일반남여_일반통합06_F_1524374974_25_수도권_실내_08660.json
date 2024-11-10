@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "양반다리나 다리를 꼬는 자세도 무릎에 무리를 줄 수 있다니 조심해야 해 ",
+    "scriptId" : "일반통합-08660",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08660.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:11:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

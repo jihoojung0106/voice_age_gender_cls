@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리 아빠는 육개장같이 얼큰한 국을 좋아해요 ",
+    "scriptId" : "소아남녀-01741",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01741.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 18:53:05",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "미각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

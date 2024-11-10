@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이번 여름 방학(SP:)때는 아빠랑 꼭 케이리그 축구 보러 갈 거예요 ",
+    "scriptId" : "소아남녀-00318",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00318.wav",
+    "recrdTime" : "8.100",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 11:23:47",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "방학 계획"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

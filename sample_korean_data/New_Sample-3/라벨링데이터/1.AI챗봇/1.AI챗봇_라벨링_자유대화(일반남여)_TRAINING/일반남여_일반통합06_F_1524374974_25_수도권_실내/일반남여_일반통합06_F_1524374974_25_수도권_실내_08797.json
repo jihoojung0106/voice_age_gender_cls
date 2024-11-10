@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇게 생각하기 쉽지만 음주 후엔 수분을 충분히 섭취하는 게 아주 중요하거든 ",
+    "scriptId" : "일반통합-08797",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08797.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:36:18",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

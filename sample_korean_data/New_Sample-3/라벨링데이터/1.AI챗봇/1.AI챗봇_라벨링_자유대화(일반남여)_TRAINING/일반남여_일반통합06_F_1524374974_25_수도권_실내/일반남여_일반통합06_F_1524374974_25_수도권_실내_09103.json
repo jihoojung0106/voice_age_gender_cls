@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그건 그렇지 그래서 요즘 컵라면은 종이 재질로 많이 바뀌는 것 같던데 ",
+    "scriptId" : "일반통합-09103",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09103.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 18:31:27",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "라면의 비밀"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

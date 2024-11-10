@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나무 막대기에 눈 스티커를 붙이고 투명 플라스틱으로 낭개 날개를 만들었어요",
+    "scriptId" : "소아남녀-00407",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00407.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 12:19:07",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "과목-통합"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

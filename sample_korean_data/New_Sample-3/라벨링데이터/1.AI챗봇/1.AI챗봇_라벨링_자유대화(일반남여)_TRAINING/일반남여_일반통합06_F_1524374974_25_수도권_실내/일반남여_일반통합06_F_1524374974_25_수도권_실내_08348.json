@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "바로 그거야 글을 종이에 쓰는 게 아니야 머리에 먼저 써야지 ",
+    "scriptId" : "일반통합-08348",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08348.wav",
+    "recrdTime" : "5.890",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:20:55",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

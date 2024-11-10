@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 여름도 여름이지만 가을에는 세미나 행사 이런 게 엄청 많은데 그게 다 스톱이잖아 ",
+    "scriptId" : "일반통합-07419",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07419.wav",
+    "recrdTime" : "9.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 18:10:08",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "호캉스 즐기기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

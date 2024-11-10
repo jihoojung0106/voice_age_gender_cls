@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "할머니는 아직도 저를 애기라고 불러요",
+    "scriptId" : "소아남녀-01338",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01338.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:13:16",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가족 소개하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

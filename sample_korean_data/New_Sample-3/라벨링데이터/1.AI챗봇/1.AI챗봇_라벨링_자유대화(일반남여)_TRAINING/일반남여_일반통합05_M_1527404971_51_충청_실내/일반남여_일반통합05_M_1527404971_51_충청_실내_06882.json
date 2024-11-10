@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 그렇다기보다는 이 년 동안 그것만 썼더니 지문이랑 기름때가 묻어서 잘 지워지지가 않네",
+    "scriptId" : "일반통합-06882",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06882.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 21:12:48",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:그)그거 좋겠네 (NO:) 너무 무거운 물건을 드는 것도 관절에 부담이 가니 피하시도록 하고 ",
+    "scriptId" : "일반통합-08703",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08703.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:15:48",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "인공관절 수술에 대하여"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

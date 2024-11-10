@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "퍼스트 클래스 티켓은 우리 돈으로 오십육만 원 이코노미 티켓은 이십만 원 정도 ",
+    "scriptId" : "일반통합-08877",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08877.wav",
+    "recrdTime" : "8.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:39:31",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저 침대는 폭신폭신한데 할머니 침대는 딱딱해요 ",
+    "scriptId" : "소아남녀-01762",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01762.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 20:19:53",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "촉각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

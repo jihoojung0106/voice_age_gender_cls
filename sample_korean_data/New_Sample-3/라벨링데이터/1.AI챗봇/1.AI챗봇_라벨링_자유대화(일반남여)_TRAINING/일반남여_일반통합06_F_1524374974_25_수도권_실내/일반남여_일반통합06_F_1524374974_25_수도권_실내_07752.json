@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "조금씩 하고 있어 그게 그렇게 진을 빼고 났더니 며칠 아무것도 못하겠더라고",
+    "scriptId" : "일반통합-07752",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07752.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 19:49:52",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "이사 중 사고 이야기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

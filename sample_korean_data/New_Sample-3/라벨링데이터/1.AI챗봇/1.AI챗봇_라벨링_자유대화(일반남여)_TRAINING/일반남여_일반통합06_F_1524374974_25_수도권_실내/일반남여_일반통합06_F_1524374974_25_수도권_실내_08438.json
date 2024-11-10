@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 우리의 능력은 우리가 생각하는 것 이상일 때가 종종 있으니까",
+    "scriptId" : "일반통합-08438",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08438.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:28:05",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경쟁심의 명과 암"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

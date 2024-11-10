@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 줄넘기 이단뛰기를 쉬지 않고 열번 넘게 할 수 있어요 ",
+    "scriptId" : "소아남녀-00193",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00193.wav",
+    "recrdTime" : "9.730",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 20:06:00",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기 소개하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

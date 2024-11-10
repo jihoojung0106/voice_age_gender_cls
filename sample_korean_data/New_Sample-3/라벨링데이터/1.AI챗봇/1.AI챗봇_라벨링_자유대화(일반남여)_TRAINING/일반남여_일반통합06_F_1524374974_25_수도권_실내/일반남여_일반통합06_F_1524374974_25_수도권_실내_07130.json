@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "콜라에는 인산 성분이 들어있는데 이게 단백질을 분해해서 부드럽게 해줘 잡내도 없애주고",
+    "scriptId" : "일반통합-07130",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07130.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:00:44",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

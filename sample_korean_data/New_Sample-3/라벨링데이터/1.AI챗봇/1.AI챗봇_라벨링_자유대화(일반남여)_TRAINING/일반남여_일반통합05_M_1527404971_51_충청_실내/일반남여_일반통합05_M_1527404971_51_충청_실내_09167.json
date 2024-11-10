@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 이 할아버지가 친구랑 매주 같이 복권을 샀는데 누군가 한 명이 당첨되면 반으로 나누자고 약속했다는 거야",
+    "scriptId" : "일반통합-09167",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09167.wav",
+    "recrdTime" : "11.770",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:23:04",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

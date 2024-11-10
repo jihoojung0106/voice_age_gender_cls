@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "후라보(SP:)노 껌은 너무 매워서 씹을 때 혀가 아픈 거 같아(SP:염)",
+    "scriptId" : "소아남녀-01725",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01725.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 18:52:02",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "미각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

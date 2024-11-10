@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다 쓸 데가 있으니까 괜한 걱정은 안 하셔도 됩니다",
+    "scriptId" : "일반통합-07117",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07117.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:35:25",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

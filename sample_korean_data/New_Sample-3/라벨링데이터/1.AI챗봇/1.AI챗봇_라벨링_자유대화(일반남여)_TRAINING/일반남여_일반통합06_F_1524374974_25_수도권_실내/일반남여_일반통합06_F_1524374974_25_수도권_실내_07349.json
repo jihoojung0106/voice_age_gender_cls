@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "대학생들은 배낭에 달고 다니기도 하던데 혹시라도 그거 밖에서 쏟아지면 위험할 수도 있겠다",
+    "scriptId" : "일반통합-07349",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07349.wav",
+    "recrdTime" : "9.380",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 10:39:04",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "손소독제 위험"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

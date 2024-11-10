@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "찜닭에 콜라를 넣는 건 단맛을 내기 위해서지만 고기나 생선의 비린내를 잡고 싶을 때도 콜라에 담가두면 좋아",
+    "scriptId" : "일반통합-07132",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_07132.wav",
+    "recrdTime" : "9.640",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 08:25:35",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

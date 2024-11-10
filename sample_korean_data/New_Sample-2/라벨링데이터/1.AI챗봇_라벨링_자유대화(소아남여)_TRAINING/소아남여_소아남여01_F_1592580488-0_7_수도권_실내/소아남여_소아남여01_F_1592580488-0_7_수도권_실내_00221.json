@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마랑 아빠랑 동생이랑 다같이 모여서 부루마블 하는 걸 좋아해요 ",
+    "scriptId" : "소아남녀-00221",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00221.wav",
+    "recrdTime" : "9.210",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 11:39:02",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기가 좋아하는 것 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

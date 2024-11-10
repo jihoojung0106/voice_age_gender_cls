@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "밑간을 할 때는 피부에 스킨 바르듯이 톡톡톡 두드리면서 올리브 오일이 살 속으로 들어가게 한참 두드려줘야 해 ",
+    "scriptId" : "일반통합-08086",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08086.wav",
+    "recrdTime" : "7.850",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:47:53",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "스테이크 잘 굽는 법 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

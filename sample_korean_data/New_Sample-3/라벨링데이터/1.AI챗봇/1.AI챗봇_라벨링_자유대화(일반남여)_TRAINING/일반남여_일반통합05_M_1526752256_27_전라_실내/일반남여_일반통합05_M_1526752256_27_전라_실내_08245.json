@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 정보의 홍수 속에서는 자기가 믿고 싶은 것만 편식하게 된다는 뜻인데 요즘 더 실감해 ",
+    "scriptId" : "일반통합-08245",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08245.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 12:45:11",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "뉴스 다이어트 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

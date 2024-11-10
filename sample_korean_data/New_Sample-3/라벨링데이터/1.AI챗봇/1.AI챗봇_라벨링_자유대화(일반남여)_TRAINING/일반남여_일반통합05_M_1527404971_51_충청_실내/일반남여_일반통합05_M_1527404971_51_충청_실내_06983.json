@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "시중 시세의 육십에서 팔십 프로 수준이고 최대 이십 년까지 거주할 수 있어",
+    "scriptId" : "일반통합-06983",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06983.wav",
+    "recrdTime" : "10.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:10:34",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

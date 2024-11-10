@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런가 아무튼 그거 발표하면서 집은 사용자의 요구에 반응하고 응답하는 살아있는 생명체와 같다 이런 말을 했어  ",
+    "scriptId" : "일반통합-08598",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08598.wav",
+    "recrdTime" : "9.730",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:05:51",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 불닭 눈물 나게 매운 불닭 하나 먹고 매운맛이 확 올라올 때 주먹밥 하나 먹어 주는 거지 ",
+    "scriptId" : "일반통합-08923",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08923.wav",
+    "recrdTime" : "9.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:44:40",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

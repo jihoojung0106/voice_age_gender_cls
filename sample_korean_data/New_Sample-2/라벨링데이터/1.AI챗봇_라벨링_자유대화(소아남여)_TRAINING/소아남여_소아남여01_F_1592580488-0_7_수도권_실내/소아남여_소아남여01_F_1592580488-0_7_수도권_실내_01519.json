@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어떤 소리가 듣기 좋은 것 같아요 ",
+    "scriptId" : "소아남녀-01519",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01519.wav",
+    "recrdTime" : "3.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 16:10:12",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "청각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

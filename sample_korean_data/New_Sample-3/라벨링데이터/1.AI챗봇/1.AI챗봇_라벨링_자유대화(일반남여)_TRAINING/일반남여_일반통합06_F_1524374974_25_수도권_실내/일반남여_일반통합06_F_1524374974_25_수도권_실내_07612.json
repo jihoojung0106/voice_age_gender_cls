@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:그런) 문화가 만들어지는 게 아주 중요(NO:하다고) 생각해 (NO:)",
+    "scriptId" : "일반통합-07612",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07612.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:45:57",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "유니콘 기업 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

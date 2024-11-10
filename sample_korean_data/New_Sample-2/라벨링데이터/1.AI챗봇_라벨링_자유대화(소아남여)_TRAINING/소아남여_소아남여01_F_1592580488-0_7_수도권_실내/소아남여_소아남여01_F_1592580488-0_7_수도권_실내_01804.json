@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "새 신발을 신었더니 발뒤꿈치가 까져서 따끔거려 ",
+    "scriptId" : "소아남녀-01804",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01804.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 19:17:19",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "촉각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

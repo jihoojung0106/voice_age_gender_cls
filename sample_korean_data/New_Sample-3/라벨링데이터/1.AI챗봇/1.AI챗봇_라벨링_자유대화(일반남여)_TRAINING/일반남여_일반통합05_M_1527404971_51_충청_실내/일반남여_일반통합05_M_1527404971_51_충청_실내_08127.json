@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래 군대에서 막 제대한 신체 건장한 청년이 지원자로 나선 거 봤는데 기특하더라구 ",
+    "scriptId" : "일반통합-08127",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08127.wav",
+    "recrdTime" : "8.960",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:28:35",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 한푼도 안빼고 백 삼십 억 정도를 뚝 잘라서 친구한테 줬대 ",
+    "scriptId" : "일반통합-09175",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09175.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:27:41",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

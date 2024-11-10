@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "걱정마 내가 너한테 언제 그렇게 화를 냈다고 그래",
+    "scriptId" : "일반통합-07064",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07064.wav",
+    "recrdTime" : "5.970",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:30:39",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

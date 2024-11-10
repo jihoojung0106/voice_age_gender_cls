@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘 삼촌 생일이니까 영상통화 하게 해주세요 ",
+    "scriptId" : "소아남녀-01204",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01204.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 08:15:04",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "질문 및 요청"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "칼칼한 고춧가루를 듬뿍 넣은 매운 낙지볶음에 콩나물이랑 밥을 슥슥 비벼서 먹으면… ",
+    "scriptId" : "일반통합-08921",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08921.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 17:21:46",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

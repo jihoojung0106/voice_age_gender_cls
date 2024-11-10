@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "한달살기하는데 호텔이나 민박 같은 데 머물면 그건 너무 여행같잖아",
+    "scriptId" : "일반통합-06526",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06526.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:36:03",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

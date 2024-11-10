@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지 주차된 차들과 수평이 (NO:됐다면) 스티어링 휠을 (NO:풀어 바퀴를 일직선으로) 맞춘 다음 후진하면 돼(NO:)",
+    "scriptId" : "일반통합-07105",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07105.wav",
+    "recrdTime" : "10.660",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:34:56",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

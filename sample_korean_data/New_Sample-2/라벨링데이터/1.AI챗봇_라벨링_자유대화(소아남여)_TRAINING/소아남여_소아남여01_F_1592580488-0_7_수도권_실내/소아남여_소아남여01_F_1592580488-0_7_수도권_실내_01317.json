@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내 뒤에 앉은 애가 수업시간에 자꾸 말 걸어요 ",
+    "scriptId" : "소아남녀-01317",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01317.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:05:49",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "학교 생활 보고"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

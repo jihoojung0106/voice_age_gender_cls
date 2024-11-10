@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엄마가 야채와 고기를 골고루 잘 먹어야 건강하다고 하는데 전 야채가 싫어요",
+    "scriptId" : "소아남녀-00208",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00208.wav",
+    "recrdTime" : "11.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 11:34:01",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기 소개하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그냥 눈에 보이는대로 주차하려고 하니까 내 마음대로 되지도 않고",
+    "scriptId" : "일반통합-07079",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07079.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:27:23",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

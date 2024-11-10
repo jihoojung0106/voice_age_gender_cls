@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "뭐 뺄 살도 없어 보이지만 관심 있으시면 추천합니다 ",
+    "scriptId" : "일반통합-07796",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07796.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:12:05",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

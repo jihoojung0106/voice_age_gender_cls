@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "차 안에서 자는 게 영 어려우면 차량 위에 설치하는 루프톱 텐트 같은 것도 있어",
+    "scriptId" : "일반통합-08825",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08825.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:38:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

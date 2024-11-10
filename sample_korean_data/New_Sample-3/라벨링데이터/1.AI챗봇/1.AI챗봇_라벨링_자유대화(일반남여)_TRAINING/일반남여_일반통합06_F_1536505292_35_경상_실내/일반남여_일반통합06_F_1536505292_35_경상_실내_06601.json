@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "종금형은 오천만 원까지 예금자 보호가 가능하고 투자처에 문제가 생겨도 금액을 돌려받을 수 있다는 장점이 있어",
+    "scriptId" : "일반통합-06601",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06601.wav",
+    "recrdTime" : "10.320",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:52:34",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

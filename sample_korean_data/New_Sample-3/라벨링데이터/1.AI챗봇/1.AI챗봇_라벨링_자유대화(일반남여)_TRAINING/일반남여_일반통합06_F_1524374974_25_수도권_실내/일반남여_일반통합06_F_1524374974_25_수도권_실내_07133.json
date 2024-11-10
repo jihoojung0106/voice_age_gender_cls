@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그뿐 아니야 옷에 기름이 튀거나 페인트가 묻었을 때도 콜라를 사용해 빨래를 하면 깨끗해져",
+    "scriptId" : "일반통합-07133",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07133.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:01:27",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

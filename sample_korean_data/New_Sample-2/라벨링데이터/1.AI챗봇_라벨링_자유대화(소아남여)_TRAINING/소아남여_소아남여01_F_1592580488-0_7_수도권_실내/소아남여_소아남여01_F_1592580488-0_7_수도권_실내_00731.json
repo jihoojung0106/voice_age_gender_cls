@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리 동네 수영장은 너무 오래됐어",
+    "scriptId" : "소아남녀-00731",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00731.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-21 11:24:50",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "수영장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

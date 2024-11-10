@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "왜 더 긍정적인 효과를 가져올 수도 있을 거 같아 ",
+    "scriptId" : "일반통합-08600",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08600.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 21:26:32",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

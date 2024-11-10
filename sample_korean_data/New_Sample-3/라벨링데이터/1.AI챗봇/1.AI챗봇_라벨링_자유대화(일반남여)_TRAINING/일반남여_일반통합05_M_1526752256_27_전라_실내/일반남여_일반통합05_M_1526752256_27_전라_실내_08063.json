@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내가 정말 큰 맘 먹고 드라이에이징 스테이크 고기를 샀어 ",
+    "scriptId" : "일반통합-08063",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08063.wav",
+    "recrdTime" : "5.800",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 18:22:21",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "스테이크 잘 굽는 법 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

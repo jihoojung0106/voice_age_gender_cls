@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "젊었을 때는 일이 많으면 아무렇지 않게 밤을 새곤했는데 이제는 밤을 새면 다음날 너무 힘이 들더라고",
+    "scriptId" : "일반통합-08539",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08539.wav",
+    "recrdTime" : "10.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:24:39",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

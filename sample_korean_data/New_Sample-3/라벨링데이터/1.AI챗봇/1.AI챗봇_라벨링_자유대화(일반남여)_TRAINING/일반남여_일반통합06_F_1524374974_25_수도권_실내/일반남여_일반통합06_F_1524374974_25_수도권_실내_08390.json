@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음 정기적으로 하는 게 좀 부담이 된다면 소설을 읽어 (NO:봐)",
+    "scriptId" : "일반통합-08390",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08390.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:24:02",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "공감력 높이기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

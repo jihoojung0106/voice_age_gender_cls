@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어쩐지 내 흰 우산을 햇볕에 말렸더니 누렇게 변해버린 적이 있었어",
+    "scriptId" : "일반통합-06333",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06333.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 13:03:55",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

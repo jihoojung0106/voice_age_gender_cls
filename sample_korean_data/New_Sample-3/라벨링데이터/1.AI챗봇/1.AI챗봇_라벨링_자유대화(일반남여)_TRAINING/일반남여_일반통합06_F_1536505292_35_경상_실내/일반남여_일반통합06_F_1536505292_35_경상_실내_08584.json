@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "피트니스 트레이너 뮤직 플레이어 말 동무 기능 이런 게 다 된다나 봐 ",
+    "scriptId" : "일반통합-08584",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08584.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 21:24:01",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

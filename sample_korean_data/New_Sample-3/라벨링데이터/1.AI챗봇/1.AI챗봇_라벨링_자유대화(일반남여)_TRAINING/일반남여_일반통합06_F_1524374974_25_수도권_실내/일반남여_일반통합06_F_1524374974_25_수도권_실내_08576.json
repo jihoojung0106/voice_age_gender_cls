@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 그냥 뉴스에서 손에 들고 있는 거 봤는데 (NO:공) 모양이더라 ",
+    "scriptId" : "일반통합-08576",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08576.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:04:01",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "반려 로봇 출현"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "리 어머니도 많이 무서워하셨는데 요즘은 수술 후 통증을 줄여주는 방법이 많이 있나보더라",
+    "scriptId" : "일반통합-08685",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08685.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 13:02:28",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "인공관절 수술에 대하여"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

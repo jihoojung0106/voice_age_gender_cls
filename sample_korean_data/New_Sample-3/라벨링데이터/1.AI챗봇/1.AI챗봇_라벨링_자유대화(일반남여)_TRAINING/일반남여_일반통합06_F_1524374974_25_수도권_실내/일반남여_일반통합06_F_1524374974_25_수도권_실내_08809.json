@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 세계 보건 기구 더블유에이치오에서는 육십오 도 이상의 뜨거운 음료를 발암 물질로 규정하고 있다고 ",
+    "scriptId" : "일반통합-08809",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08809.wav",
+    "recrdTime" : "10.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:37:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

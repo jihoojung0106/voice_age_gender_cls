@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러니까 바이오 이런 데는 정말 미래를 위해 투자를 해야 하는 분야 같은데 ",
+    "scriptId" : "일반통합-08153",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08153.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:32:18",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

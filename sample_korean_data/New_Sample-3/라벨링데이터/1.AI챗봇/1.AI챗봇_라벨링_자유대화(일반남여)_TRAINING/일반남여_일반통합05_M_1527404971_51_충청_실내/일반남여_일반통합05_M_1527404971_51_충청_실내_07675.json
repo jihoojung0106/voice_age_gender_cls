@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런가 봐 직접 가서 보면 돌 위에서 나무가 그것도 큰 나무가 막 자라 ",
+    "scriptId" : "일반통합-07675",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07675.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:34:04",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "제주어 배우기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "과자 몇 개 사요 엄마 것도 사요",
+    "scriptId" : "소아남녀-01120",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01120.wav",
+    "recrdTime" : "4.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 18:28:27",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "슈퍼마켓"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

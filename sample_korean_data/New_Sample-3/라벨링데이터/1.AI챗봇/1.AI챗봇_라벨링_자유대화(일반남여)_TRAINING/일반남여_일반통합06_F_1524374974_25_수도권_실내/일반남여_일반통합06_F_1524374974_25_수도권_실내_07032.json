@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우선 무조건 외우기보다는 같은 내용을 여러 번 (NO: 읽으면) 보다 효과적으로 암기할 수 있대",
+    "scriptId" : "일반통합-07032",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07032.wav",
+    "recrdTime" : "9.640",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:27:29",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

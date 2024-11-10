@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)자기 딴엔 이번 시험에 암기 과목 점수를 올리겠다면서 열심히 외운 (SP:것) 같은데 효과가 없었더라고",
+    "scriptId" : "일반통합-07020",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07020.wav",
+    "recrdTime" : "9.380",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:17:32",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

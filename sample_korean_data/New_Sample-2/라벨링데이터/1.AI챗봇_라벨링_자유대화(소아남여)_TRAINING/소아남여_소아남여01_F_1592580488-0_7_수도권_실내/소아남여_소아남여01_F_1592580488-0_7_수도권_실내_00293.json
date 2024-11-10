@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "오늘 급식은 제가 (SN:)좋아하는 거였어요",
+    "scriptId" : "소아남녀-00293",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00293.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 12:09:14",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "급식에 관해 얘기하는 상황"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "악몽을 먹고 사는 소년이 너무 괴로우니까 기억을 지워달라고 해 ",
+    "scriptId" : "일반통합-07633",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_07633.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 15:44:18",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

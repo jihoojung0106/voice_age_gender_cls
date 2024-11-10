@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "집 회사 가방에 있는 걸 찾아보면 서너개는 될 거 같아",
+    "scriptId" : "일반통합-06384",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06384.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 13:09:05",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "오래된 구강청결제 버리지 마세요"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

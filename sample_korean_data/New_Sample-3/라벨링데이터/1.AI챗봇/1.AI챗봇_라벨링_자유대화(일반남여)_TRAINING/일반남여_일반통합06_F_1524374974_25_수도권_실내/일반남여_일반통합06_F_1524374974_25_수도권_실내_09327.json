@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 평범한 직업을 가진 중년 남자가 극한 상황에서 가족 지키는 이야기",
+    "scriptId" : "일반통합-09327",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09327.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:10:50",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "드라마 피피엘"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

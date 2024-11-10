@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:중국 사람들이 그런대) 어떻게 그렇게 스토리를 잘 만들 수 있냐고 묻는대 ",
+    "scriptId" : "일반통합-07618",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07618.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 16:46:27",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

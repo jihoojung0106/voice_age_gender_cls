@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "모르는 소리 오염된 부분에 콜라를 부어주고 십 분 정도 후에 비누로 씻어주면 얼룩 제거는 물론 탈취 효과까지 얻을 수 있다고",
+    "scriptId" : "일반통합-07136",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07136.wav",
+    "recrdTime" : "13.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:01:46",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

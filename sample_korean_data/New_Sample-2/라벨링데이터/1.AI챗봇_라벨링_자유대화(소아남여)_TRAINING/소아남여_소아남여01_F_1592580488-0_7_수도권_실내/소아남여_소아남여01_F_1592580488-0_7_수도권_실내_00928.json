@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "워터파크 가 봤어 진짜 재밌어",
+    "scriptId" : "소아남녀-00928",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00928.wav",
+    "recrdTime" : "4.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 13:43:28",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경험한 일"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

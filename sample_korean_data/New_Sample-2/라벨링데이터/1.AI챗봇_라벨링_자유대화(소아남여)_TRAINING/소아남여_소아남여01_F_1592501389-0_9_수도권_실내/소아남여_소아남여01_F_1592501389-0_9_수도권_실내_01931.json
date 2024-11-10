@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다른 거 입어도 돼요 이 옷 맘에 안들어요 ",
+    "scriptId" : "소아남녀-01931",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01931.wav",
+    "recrdTime" : "3.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 21:05:47",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "옷을 갈아 입을 때"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

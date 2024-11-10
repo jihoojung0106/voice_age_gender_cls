@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "큰 차이는 아니라도 하루 단위로 이자가 붙는다는 게 가장 큰 장점이지",
+    "scriptId" : "일반통합-06572",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06572.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:48:20",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

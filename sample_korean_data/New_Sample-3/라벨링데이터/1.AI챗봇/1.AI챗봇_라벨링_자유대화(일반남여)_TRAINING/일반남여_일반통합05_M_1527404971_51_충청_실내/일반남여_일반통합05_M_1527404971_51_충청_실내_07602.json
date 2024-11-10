@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "왜 자동차 회사에서 그런 게 필요하냐고 했더니 차 안에서의 음성 인식 이런데 그런 기술이 필요하대 ",
+    "scriptId" : "일반통합-07602",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07602.wav",
+    "recrdTime" : "9.380",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 18:35:37",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "유니콘 기업 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

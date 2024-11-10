@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 외근 나갔다가 돌아왔더니만 직원이 그러더라고 내가 주라고 그랬대",
+    "scriptId" : "일반통합-09410",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09410.wav",
+    "recrdTime" : "6.230",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:32:02",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 이제부터는 좀 자제하려고",
+    "scriptId" : "일반통합-08766",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08766.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:32:30",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

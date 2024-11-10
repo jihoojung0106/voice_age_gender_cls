@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아빠가 지금 당장 옷 걸어 놓으라고 했단 말이야",
+    "scriptId" : "소아남녀-01181",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01181.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:46:42",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "정리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

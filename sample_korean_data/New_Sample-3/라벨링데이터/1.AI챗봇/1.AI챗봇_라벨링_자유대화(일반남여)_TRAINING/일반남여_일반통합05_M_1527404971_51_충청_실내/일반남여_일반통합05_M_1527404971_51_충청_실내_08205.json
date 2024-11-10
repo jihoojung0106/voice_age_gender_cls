@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "대한민국 최북단 자유의 집 당시가 남북 교류가 한창 때였대",
+    "scriptId" : "일반통합-08205",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08205.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 17:32:05",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "광고 트렌드"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

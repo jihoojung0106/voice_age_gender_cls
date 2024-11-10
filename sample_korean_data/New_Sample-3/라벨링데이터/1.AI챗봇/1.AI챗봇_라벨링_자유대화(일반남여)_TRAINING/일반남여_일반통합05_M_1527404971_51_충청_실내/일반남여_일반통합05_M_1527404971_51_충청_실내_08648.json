@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "뭐 무릎에 좋은 음식이라고 그것만 많이 먹는 것도 좋을 것 같진 않아 ",
+    "scriptId" : "일반통합-08648",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08648.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:04:28",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

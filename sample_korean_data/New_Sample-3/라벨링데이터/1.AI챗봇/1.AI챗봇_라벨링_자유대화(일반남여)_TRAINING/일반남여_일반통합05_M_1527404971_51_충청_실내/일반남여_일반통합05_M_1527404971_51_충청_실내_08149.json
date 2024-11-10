@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러게나 말이야 근데 우리나라 의학자들 그리 대단한데 나오지 않을까",
+    "scriptId" : "일반통합-08149",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08149.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:31:37",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

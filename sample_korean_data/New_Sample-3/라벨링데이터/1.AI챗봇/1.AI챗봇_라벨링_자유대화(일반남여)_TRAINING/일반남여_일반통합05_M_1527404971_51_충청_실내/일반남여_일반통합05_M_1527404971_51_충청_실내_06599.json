@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런 단어들을 들으니까 또 무서워지는데 괜한 짓 하는 건 아니겠지",
+    "scriptId" : "일반통합-06599",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06599.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:07:19",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "알았어 그럼 밥 먹고나서 좀 있다가 졸음이 좀 몰려오는 시간 쯤에 마시는 게 좋겠다 ",
+    "scriptId" : "일반통합-08789",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08789.wav",
+    "recrdTime" : "8.530",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:28:24",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 스포츠의 세계에선 사실 이런 점을 이용하기도 하는 거 같아 ",
+    "scriptId" : "일반통합-08434",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08434.wav",
+    "recrdTime" : "5.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:27:47",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경쟁심의 명과 암"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

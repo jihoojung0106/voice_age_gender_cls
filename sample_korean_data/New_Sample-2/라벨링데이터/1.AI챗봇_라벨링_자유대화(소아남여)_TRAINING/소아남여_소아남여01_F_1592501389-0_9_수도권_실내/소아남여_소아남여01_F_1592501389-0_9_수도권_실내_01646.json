@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 꽃이 언제 이렇게 다 피었지 ",
+    "scriptId" : "소아남녀-01646",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01646.wav",
+    "recrdTime" : "3.160",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 17:10:36",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "시각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

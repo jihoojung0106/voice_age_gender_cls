@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리 가족 여름 휴가는 제주도로 가요 ",
+    "scriptId" : "소아남녀-00307",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00307.wav",
+    "recrdTime" : "3.839",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 23:06:29",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "방학 계획"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

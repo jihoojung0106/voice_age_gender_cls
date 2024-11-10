@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일억이 없어서 비싼 월세를 내는 (NO:경우가) 얼마나 많은데",
+    "scriptId" : "일반통합-06993",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06993.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:17:06",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "혼족을 위한 지원 정책"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

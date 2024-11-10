@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "초는 섬유를 부드럽게 해주는 성분이 있기 때문에 주름을 쉽게 펼 수 있거든",
+    "scriptId" : "일반통합-06900",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06900.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:47:57",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

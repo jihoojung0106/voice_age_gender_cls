@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)팩이나 촘촘한 망에 적당량을 넣어서 신발장이나 옷장에 넣어두면 물먹는 하마가 부럽지 않더라고",
+    "scriptId" : "일반통합-06931",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06931.wav",
+    "recrdTime" : "9.730",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 21:20:46",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

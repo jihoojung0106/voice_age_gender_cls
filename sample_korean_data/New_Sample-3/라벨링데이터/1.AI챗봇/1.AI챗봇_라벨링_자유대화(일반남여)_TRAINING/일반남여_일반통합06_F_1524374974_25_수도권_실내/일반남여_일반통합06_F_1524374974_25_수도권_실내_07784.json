@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "가급(NO:적이면 맵고 짠 거 잘 안 먹어서) 속 쓰리진 않아요",
+    "scriptId" : "일반통합-07784",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07784.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:09:49",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "간헐적 단식 효과 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

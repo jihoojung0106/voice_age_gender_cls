@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아무리 잘한다고 해도 기초 의학이나 바이오 이런 데에 투자가 적은 거 아닐까",
+    "scriptId" : "일반통합-08152",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08152.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:57:59",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "신문 기사 난 거 보니까 타이틀이 '이대로 죽을 순 없다' 이렇게 돼 있더라 ",
+    "scriptId" : "일반통합-07445",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07445.wav",
+    "recrdTime" : "7.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 18:12:37",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "호캉스 즐기기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

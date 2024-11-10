@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "쉬운 거 부터 가르쳐줘 괜히 어려운 거 부터 가르쳐줘서 기죽이지 말고",
+    "scriptId" : "일반통합-07075",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07075.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:26:33",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

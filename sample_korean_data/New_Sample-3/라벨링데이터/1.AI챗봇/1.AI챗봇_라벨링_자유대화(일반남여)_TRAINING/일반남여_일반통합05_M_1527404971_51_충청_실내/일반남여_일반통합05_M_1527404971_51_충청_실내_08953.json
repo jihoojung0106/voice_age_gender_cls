@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "에이 아니지 떡볶이 양념을 아무리 맛있게 만들어도 떡에 양념이 제대로 배지 않을 때가 있거든 ",
+    "scriptId" : "일반통합-08953",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08953.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 09:53:14",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

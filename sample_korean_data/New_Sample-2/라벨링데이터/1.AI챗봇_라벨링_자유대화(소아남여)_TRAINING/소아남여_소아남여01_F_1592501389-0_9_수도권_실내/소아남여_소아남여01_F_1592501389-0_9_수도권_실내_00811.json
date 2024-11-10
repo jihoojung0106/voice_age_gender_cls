@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "책을 빌려가면 이주 동안 읽을 수 있어요 ",
+    "scriptId" : "소아남녀-00811",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00811.wav",
+    "recrdTime" : "3.070",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 12:53:53",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "도서관"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

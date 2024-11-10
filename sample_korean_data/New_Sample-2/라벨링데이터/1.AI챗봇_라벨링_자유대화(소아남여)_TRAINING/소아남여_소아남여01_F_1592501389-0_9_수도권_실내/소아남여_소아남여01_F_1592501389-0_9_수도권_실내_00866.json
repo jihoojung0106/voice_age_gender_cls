@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "의사 선생님이 치카치카 잘하라고 하셨어요",
+    "scriptId" : "소아남녀-00866",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00866.wav",
+    "recrdTime" : "2.990",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 13:04:38",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "처치"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

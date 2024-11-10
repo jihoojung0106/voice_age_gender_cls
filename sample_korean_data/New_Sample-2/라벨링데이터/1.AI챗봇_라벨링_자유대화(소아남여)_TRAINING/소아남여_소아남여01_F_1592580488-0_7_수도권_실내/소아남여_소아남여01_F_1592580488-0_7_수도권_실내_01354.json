@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요새 계속 이가 아팠는데 치과에 갔더니 썩었대요 ",
+    "scriptId" : "소아남녀-01354",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01354.wav",
+    "recrdTime" : "8.280",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 09:22:46",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "치과"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

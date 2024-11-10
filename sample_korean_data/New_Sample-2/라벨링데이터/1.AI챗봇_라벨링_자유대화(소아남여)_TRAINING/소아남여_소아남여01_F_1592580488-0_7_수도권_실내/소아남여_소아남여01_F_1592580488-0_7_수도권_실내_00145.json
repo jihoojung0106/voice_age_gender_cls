@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "삼촌은 내가 말하는 거 다 만들어 줘요 ",
+    "scriptId" : "소아남녀-00145",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00145.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 19:46:53",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "가족 소개하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

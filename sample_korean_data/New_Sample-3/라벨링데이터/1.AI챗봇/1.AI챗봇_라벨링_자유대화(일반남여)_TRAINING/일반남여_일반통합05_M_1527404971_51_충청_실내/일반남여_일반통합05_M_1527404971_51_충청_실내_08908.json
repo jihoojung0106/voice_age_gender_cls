@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "현지 농가가 키운 농산물을 비행기로 배달해 주는 전자 상거래 플랫폼이라는데",
+    "scriptId" : "일반통합-08908",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08908.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:43:16",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

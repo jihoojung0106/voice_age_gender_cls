@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 아이스펀지 어학원 머큐리 반에서 영어를 배워요 ",
+    "scriptId" : "소아남녀-00198",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00198.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 20:13:07",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기 소개하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "카레 속에 든 당근은 냄새도 이상하고 맛도 별로예요 ",
+    "scriptId" : "소아남녀-01742",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01742.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 19:00:02",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "미각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

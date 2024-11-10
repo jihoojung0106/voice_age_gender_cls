@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어 요즘 하도 장사가 안되니까 와서 일 할 수 있게 아침 여덟 시에서 밤 열 시까지 이런 상품들이 나온 거야",
+    "scriptId" : "일반통합-07433",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_07433.wav",
+    "recrdTime" : "9.300",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-22 15:26:56",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "호캉스 즐기기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

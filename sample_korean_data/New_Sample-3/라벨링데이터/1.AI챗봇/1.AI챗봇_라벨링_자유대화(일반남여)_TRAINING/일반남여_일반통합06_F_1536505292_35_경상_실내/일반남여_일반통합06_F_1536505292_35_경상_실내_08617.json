@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사실 나도 등산 한 번씩 다녀오면 요즘은 무릎이 좀 아프더라고 ",
+    "scriptId" : "일반통합-08617",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08617.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 21:28:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

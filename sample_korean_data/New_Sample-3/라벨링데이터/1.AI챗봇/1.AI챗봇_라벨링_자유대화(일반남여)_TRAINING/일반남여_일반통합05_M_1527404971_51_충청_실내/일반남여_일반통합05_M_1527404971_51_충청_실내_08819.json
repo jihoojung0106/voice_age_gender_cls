@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일행끼리만 차 안에서 지낼 수 있으니까 타인과의 접촉을 좀 피할 순 있겠다",
+    "scriptId" : "일반통합-08819",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08819.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:31:41",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

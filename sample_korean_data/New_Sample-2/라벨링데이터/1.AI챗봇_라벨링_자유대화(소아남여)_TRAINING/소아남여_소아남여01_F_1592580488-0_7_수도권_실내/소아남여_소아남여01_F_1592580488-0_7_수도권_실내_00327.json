@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이번 겨울 방학에는 목동 아이스링크에서 스케이트 강습을 받기로 했어요 ",
+    "scriptId" : "소아남녀-00327",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00327.wav",
+    "recrdTime" : "9.730",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 12:31:44",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "방학 계획"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

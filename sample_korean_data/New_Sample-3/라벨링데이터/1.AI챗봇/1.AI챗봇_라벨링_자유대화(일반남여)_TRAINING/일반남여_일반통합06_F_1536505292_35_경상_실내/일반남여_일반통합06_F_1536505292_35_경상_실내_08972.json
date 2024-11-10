@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "좀 신경쓰면 계란말이나 계란찜 아니면 계란프라이라도 ",
+    "scriptId" : "일반통합-08972",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08972.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 13:43:33",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

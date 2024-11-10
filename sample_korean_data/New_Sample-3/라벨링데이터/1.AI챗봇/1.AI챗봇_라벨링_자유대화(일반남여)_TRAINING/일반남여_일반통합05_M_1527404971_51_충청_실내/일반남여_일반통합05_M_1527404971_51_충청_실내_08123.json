@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "전 세계에서 너도 나도 백신 만든다고 야단인데 우리가 제일 먼저 만들면 좋겠다 ",
+    "scriptId" : "일반통합-08123",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08123.wav",
+    "recrdTime" : "9.130",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:27:46",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

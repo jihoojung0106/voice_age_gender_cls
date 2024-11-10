@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "왜 용기를 내봐 그거 첫 시험자도 네 살난 아이를 가진 평범한 사람이더구먼 ",
+    "scriptId" : "일반통합-08139",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08139.wav",
+    "recrdTime" : "8.790",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:30:08",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

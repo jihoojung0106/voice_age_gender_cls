@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "키즈 카페에서 하는 핼로윈  카 파티에 갈 거예요 ",
+    "scriptId" : "소아남녀-00495",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00495.wav",
+    "recrdTime" : "4.950",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 16:34:31",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "파티"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

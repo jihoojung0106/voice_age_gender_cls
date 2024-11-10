@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "냉장고 안의 음식 냄새가 계란으로 흡수되는 것을 막아줄 수 있다며",
+    "scriptId" : "일반통합-09010",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09010.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 17:27:33",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

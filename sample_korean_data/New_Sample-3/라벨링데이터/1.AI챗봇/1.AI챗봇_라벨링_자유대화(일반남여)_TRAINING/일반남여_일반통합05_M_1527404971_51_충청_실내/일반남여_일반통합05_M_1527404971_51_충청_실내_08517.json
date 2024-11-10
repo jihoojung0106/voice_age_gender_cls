@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래 채식주의자들도 생선은 먹는다고 들었는데 그게 아닌 모양이군",
+    "scriptId" : "일반통합-08517",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08517.wav",
+    "recrdTime" : "6.830",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:21:19",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그건 그래 가끔 단 음식이 땡길 땐 편의점 모찌롤이랑 초코우유 조합도 괜찮아 ",
+    "scriptId" : "일반통합-09049",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09049.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 18:27:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "맛있는 야식 꿀조합"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "낄끼아빠는 왠지 어른들 소외시키는 거 같은데 소확행은 은근 아름다운 말이네 ",
+    "scriptId" : "일반통합-07878",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07878.wav",
+    "recrdTime" : "8.700",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 22:00:29",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소확행 단어 학습"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

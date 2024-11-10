@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "드라이브를 좋아하는 사람들이 쉬는 날 모여 전국 방방곡곡의 휴게소를 여행하는 동호회야",
+    "scriptId" : "일반통합-07187",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07187.wav",
+    "recrdTime" : "9.550",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:07:34",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

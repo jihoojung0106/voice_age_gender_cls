@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저 할 수 있어요 자신 있어요 ",
+    "scriptId" : "소아남녀-01413",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01413.wav",
+    "recrdTime" : "3.330",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 11:46:52",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "기분이나 감정 표현하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

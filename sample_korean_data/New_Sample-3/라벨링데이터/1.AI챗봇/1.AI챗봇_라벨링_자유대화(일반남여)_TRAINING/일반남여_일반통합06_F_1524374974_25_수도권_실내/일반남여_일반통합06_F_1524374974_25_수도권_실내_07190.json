@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "휴게소에 대해서 잘 알면 먹을거리 말고도 얻을 수 있는 혜택이 많아",
+    "scriptId" : "일반통합-07190",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07190.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:07:46",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

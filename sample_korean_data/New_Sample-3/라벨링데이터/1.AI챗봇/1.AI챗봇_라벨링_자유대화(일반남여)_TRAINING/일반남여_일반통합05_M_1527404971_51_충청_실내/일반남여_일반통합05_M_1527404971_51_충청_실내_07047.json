@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)친구들하고 같이 노래 부르면서 외우니 재미도 있고",
+    "scriptId" : "일반통합-07047",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07047.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:21:43",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "암기 잘하는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

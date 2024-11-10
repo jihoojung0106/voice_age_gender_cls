@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그랬더니 그 악몽의 기억을 이겨야만 성장할 수 있다 뭐 그런 내용이야 ",
+    "scriptId" : "일반통합-07636",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07636.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:27:38",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

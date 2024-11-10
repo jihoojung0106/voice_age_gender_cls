@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "상가에는 부동산이 엄청 많아 ",
+    "scriptId" : "소아남녀-00665",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00665.wav",
+    "recrdTime" : "3.240",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 18:33:15",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "집 주변"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

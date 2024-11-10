@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "자기가 외주자 써서 핸들링한다고 하는데 그 사람들이 그게 가능하냐고",
+    "scriptId" : "일반통합-09404",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09404.wav",
+    "recrdTime" : "5.720",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:31:33",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "떡국을 먹어야 한 살 더 먹는 거래요 ",
+    "scriptId" : "소아남녀-00515",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00515.wav",
+    "recrdTime" : "3.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-14 16:39:15",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "떡국"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

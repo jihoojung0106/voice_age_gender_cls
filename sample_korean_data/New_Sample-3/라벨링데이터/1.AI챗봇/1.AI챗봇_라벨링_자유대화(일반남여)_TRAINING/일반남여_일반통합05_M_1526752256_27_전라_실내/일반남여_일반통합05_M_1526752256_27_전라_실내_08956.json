@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "끓는 물에 떡을 살짝 데친 다음에 물기를 제거하고 진간장을 살짝 넣어서 밑간을 하는 거야",
+    "scriptId" : "일반통합-08956",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08956.wav",
+    "recrdTime" : "9.300",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 23:10:11",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "매운 음식 열전"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

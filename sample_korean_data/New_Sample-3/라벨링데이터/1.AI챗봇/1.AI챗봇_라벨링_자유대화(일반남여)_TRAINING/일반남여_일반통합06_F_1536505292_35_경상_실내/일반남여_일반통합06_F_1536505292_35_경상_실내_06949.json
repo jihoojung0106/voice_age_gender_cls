@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나름 커피 마니아라고 자부해왔는데 마실 줄만 알았지 그런 다양한 활용법이 있는지는 꿈에도 몰랐네",
+    "scriptId" : "일반통합-06949",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06949.wav",
+    "recrdTime" : "11.430",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:51:51",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

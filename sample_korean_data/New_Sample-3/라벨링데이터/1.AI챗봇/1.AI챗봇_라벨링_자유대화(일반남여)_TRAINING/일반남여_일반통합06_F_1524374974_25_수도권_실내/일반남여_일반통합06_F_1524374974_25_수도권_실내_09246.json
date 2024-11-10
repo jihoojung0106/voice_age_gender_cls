@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우와 구월산 여장군이라니 별명도 진짜 대단하다",
+    "scriptId" : "일반통합-09246",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09246.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 20:07:08",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "한국전쟁 당시 참전 여성들"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "하지만 양껏 먹으면 소화기관에 부담이 되서 시차적응이 더 어려워진다고",
+    "scriptId" : "일반통합-06448",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06448.wav",
+    "recrdTime" : "7.930",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 17:30:30",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

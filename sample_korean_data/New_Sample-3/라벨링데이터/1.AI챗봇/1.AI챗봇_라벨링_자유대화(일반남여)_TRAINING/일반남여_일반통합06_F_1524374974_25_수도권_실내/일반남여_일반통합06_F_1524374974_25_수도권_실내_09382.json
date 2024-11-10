@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나는 이번에 깨달은 게 지금 당장 나한테 필요한 건 성장이나 성취가 아니라 돌봄이라는거",
+    "scriptId" : "일반통합-09382",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09382.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:29:49",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

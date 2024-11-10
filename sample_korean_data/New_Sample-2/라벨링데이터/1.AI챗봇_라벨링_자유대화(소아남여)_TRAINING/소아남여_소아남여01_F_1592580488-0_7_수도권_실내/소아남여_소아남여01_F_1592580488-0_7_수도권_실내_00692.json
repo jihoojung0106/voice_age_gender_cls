@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "수업 시간 십분 전에 도착해야 해 ",
+    "scriptId" : "소아남녀-00692",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00692.wav",
+    "recrdTime" : "4.780",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-21 11:14:11",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "학원"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

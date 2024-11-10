@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "어우 그 냄새 그럴 때 한입만 달라고 해도 안주는 사람 진짜 얄미워 ",
+    "scriptId" : "일반통합-09068",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09068.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:09:31",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "라면의 비밀"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:응) 그 포스트잇 구조를 옆에 (NO:두고) 조금씩 써가는 거지 ",
+    "scriptId" : "일반통합-08358",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08358.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:21:53",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 그래서 수소문을 해봤더니 자기 집안에 할아버지의 할아버지쯤 조상 중에 존속 살인을 한 사이코패스가 있었대 ",
+    "scriptId" : "일반통합-07935",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_07935.wav",
+    "recrdTime" : "11.260",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 18:12:02",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "싸이코패스의 뇌 알기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "물을 줄 때는 채소 잎은 피해서 흙에만 스미게 주는 게 좋아요",
+    "scriptId" : "일반통합-06801",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06801.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:40:23",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SN:)요즘은 복권 당첨되도 너처럼 티 안내고 그냥 살던대로 살겠다는 사람들이 많더라 ",
+    "scriptId" : "일반통합-09198",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09198.wav",
+    "recrdTime" : "8.620",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:30:20",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

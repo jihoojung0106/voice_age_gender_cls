@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그래서 누군가는 지금 이 팬데믹이 우리에게 새로운 생각을 심는 시기라고 하잖아",
+    "scriptId" : "일반통합-07883",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07883.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:19:41",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "소확행 단어 학습"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

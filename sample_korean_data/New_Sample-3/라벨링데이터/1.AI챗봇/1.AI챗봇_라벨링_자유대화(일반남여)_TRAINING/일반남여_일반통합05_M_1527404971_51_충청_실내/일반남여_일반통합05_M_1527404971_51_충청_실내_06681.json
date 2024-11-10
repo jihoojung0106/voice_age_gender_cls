@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "복잡하지 않아요 듣기는 했는데 기계치라서 하던대로 하고 있었거든요",
+    "scriptId" : "일반통합-06681",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06681.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:18:25",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "일의 능률을 올려주는 휴대폰 어플"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

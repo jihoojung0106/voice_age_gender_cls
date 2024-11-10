@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "설날에는 어른들한테 세배해요",
+    "scriptId" : "소아남녀-00505",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00505.wav",
+    "recrdTime" : "4.180",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 19:32:27",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세배"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우선 네가 쓰고 싶은 글의 주제를 정해야지 ",
+    "scriptId" : "일반통합-08322",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08322.wav",
+    "recrdTime" : "3.920",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 13:48:21",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

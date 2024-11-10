@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다만 접이식 테이블이나 의자 매트와 침낭 취사도구 같은 건 기본적으로 챙겨야지 ",
+    "scriptId" : "일반통합-08848",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08848.wav",
+    "recrdTime" : "7.250",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:40:32",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

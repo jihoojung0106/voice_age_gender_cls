@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나둔데 마땅히 먹을게 없을 때 계란만 있어도 든든하더라고 ",
+    "scriptId" : "일반통합-08971",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08971.wav",
+    "recrdTime" : "5.200",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 17:25:00",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

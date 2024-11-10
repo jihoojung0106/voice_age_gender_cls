@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:)동생이 어젯밤에 열이 너무 많이 나서 응급실에 다녀왔어요 (NO:)",
+    "scriptId" : "소아남녀-01361",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01361.wav",
+    "recrdTime" : "7.760",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 17:47:28",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "소아과"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

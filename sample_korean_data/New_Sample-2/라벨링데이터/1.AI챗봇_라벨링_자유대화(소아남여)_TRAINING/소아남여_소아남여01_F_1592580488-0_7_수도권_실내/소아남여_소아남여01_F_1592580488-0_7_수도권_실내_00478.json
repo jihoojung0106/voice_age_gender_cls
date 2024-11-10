@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "카드를 만들어서 선생님 드렸어요",
+    "scriptId" : "소아남녀-00478",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00478.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 19:25:58",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "스승의 날"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

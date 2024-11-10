@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "니 국제 정세 보려면 읽기는 해야 하는데 생각보다 잘 안 읽게 되네",
+    "scriptId" : "일반통합-09264",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_09264.wav",
+    "recrdTime" : "7.170",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 16:43:12",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외국 신문 선호도"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

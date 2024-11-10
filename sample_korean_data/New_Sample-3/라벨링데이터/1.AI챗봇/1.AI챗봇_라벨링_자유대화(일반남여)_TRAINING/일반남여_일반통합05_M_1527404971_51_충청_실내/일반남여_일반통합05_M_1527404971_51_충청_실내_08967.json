@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "닭이 구구하고 울잖아 거기서 착안해서 닭고기와 계란 소비를 촉진하기 위해 만든 날이래",
+    "scriptId" : "일반통합-08967",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08967.wav",
+    "recrdTime" : "9.900",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 09:55:25",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "계란 보관법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

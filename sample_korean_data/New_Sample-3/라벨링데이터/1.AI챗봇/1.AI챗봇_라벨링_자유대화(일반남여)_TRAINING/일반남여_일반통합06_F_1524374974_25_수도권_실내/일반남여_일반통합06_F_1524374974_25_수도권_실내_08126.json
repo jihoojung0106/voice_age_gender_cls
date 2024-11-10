@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:) 그런데 임상 시험 지원자들 나서는 거 보니까 뭔가 뭉클하더라",
+    "scriptId" : "일반통합-08126",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08126.wav",
+    "recrdTime" : "5.460",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:56:06",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

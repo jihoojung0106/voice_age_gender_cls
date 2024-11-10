@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러게나 말이야 민간인 신분으로 군번도 없이 활동한 여성도 많대",
+    "scriptId" : "일반통합-09218",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09218.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:32:42",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "한국전쟁 당시 참전 여성들"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

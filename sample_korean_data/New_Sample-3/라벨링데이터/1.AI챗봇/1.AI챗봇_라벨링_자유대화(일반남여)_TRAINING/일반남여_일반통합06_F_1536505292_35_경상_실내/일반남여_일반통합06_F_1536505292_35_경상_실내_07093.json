@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "초보들은 흔히 전진 주차가 쉽다고 생각하지만 원리만 잘 알면 오히려 후진 주차가 더 쉬워",
+    "scriptId" : "일반통합-07093",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_07093.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 08:22:23",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "칠십 개면 뭐 대충 오 일에서 일주일 사이에 하나 먹는 거네 ",
+    "scriptId" : "일반통합-09072",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09072.wav",
+    "recrdTime" : "5.030",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 18:28:36",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "라면의 비밀"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

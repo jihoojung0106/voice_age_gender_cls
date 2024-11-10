@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 그래 백신 소용 없을수도 있다 막 그런 말도 많았는데",
+    "scriptId" : "일반통합-08157",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08157.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:32:56",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

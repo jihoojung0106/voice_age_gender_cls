@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엘사랑 안나가 나오는데 둘은 언니 동생이에요 ",
+    "scriptId" : "소아남녀-01278",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01278.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 17:25:43",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "겨울왕국"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

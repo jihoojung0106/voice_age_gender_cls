@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "우리 가족은 엄마 아빠 나 세 명이요",
+    "scriptId" : "소아남녀-00119",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00119.wav",
+    "recrdTime" : "4.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 16:10:41",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "가족 소개하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

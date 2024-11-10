@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 베조스한테 투자 받은 뒤에 '미국 언론' 특히 워싱턴 언론으로서는 참 괜찮은듯해",
+    "scriptId" : "일반통합-09276",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09276.wav",
+    "recrdTime" : "11.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 10:42:16",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "외국 신문 선호도"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

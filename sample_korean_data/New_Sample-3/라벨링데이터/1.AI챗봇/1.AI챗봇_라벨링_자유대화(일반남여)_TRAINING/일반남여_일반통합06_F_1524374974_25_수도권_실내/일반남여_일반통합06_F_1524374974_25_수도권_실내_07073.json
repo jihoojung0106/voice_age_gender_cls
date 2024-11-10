@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "주차는 많은 변수를 경험하고 자꾸 연습하면 누구나 잘할 수 있어",
+    "scriptId" : "일반통합-07073",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07073.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:31:20",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

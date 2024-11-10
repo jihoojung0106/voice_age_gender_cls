@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "계란을 삶을 때 식초를 넣으면 껍질이 깨지지 않을 뿐 아니라 껍질을 깨끗하게 벗길 수 있어",
+    "scriptId" : "일반통합-06869",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06869.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:45:01",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

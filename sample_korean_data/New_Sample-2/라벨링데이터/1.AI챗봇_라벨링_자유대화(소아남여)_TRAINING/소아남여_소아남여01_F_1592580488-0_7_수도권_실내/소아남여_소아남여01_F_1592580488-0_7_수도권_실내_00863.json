@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "목이 따갑고 열이 나요 ",
+    "scriptId" : "소아남녀-00863",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00863.wav",
+    "recrdTime" : "2.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 12:53:24",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "증상"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

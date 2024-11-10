@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(SP:)데 백신 개발이 하도 경쟁이 심하니까 러시아 중국 미국 그런 나라들 기사들이 좀 다 부왕부왕해 ",
+    "scriptId" : "일반통합-08144",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08144.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 15:24:30",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

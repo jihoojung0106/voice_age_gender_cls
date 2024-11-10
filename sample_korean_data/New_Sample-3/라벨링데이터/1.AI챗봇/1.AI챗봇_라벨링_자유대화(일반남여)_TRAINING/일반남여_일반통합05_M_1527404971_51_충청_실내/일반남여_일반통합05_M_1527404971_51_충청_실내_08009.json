@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아마도 무의식 세계의 마음을 그럴 듯하게 읽어내는 게 아닐까",
+    "scriptId" : "일반통합-08009",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08009.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 22:19:50",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "꿈해몽 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

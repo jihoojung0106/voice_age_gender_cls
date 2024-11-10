@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "올리브오일은 일일 권장량이 철저하게 제한되는 식품이야",
+    "scriptId" : "일반통합-06854",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06854.wav",
+    "recrdTime" : "7.340",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:43:17",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

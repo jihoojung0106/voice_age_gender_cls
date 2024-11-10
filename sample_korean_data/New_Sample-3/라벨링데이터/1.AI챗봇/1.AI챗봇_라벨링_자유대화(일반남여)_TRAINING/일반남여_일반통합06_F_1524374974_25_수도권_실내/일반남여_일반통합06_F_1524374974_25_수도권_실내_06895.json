@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이렇게 만든 식초 스프레이를 선글라스에 뿌리고 안경닦이로 닦으면 새것처럼 깨끗해져",
+    "scriptId" : "일반통합-06895",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06895.wav",
+    "recrdTime" : "9.300",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 00:08:45",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "식초 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

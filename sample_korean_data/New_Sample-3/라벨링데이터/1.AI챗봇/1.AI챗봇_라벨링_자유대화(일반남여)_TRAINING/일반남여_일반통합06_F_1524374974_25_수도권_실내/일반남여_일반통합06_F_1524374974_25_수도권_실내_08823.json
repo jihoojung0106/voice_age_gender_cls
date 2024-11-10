@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그렇지도 않아 아예 차박이 가능하도록 차 내부를 확장 개조하는 사람들도 있긴 한데",
+    "scriptId" : "일반통합-08823",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08823.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:37:53",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나시대의 여행트렌드-차박캠핑"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

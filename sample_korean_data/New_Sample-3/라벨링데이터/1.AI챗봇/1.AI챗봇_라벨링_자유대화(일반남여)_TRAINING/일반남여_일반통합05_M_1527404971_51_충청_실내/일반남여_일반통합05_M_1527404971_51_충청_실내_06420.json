@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "시차적응을 잘 하려면 비행기 안에서 물을 자주 마시고 술이나 카페인이 든 음료는 마시지 않는 게 좋아",
+    "scriptId" : "일반통합-06420",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06420.wav",
+    "recrdTime" : "11.010",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 17:25:51",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "해외에서 시차 적응 잘하는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

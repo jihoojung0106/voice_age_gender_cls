@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그냥 지출 내역만 잘 (NO:입력하면) 자기가 알아서 계산을 해주는 건 물론이고 항목별 지출 분석까지 해준대 ",
+    "scriptId" : "일반통합-08032",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08032.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:39:07",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "엑셀 도전하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

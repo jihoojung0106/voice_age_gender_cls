@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(NO:눈이 부었을 때랑) 머리가 맘에 안 들때 좀 속상해요 ",
+    "scriptId" : "소아남녀-01847",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01847.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 20:44:31",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "외모와 옷차림"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

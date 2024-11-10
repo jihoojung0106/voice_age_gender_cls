@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "맞아 아무래도 원목은 물건에 살짝만 부딪혀도 흠집이 나니까 엄청 신경이 쓰이더라고",
+    "scriptId" : "일반통합-06956",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06956.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:52:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 찌꺼기 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나라도 에어비앤비를 사용한다면 그 지역 사람들과 어울리고 싶어서 일 거 같아",
+    "scriptId" : "일반통합-06547",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06547.wav",
+    "recrdTime" : "8.870",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 17:52:54",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

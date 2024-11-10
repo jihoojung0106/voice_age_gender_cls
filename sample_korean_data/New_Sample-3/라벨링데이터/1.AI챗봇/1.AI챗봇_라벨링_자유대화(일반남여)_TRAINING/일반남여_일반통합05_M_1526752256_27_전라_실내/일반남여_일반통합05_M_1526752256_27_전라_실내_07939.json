@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "과학자는 과학자지 그래서 연구를 왜 나는 사이코패스가 되지 않았을까를 가지고 연구를 한 거지 ",
+    "scriptId" : "일반통합-07939",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_07939.wav",
+    "recrdTime" : "10.490",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-24 18:12:30",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "싸이코패스의 뇌 알기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

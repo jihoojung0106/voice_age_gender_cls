@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "후기가 적지만 호스트가 정성스럽게 프로필을 작성해 놓은 곳을 골라봐야겠다",
+    "scriptId" : "일반통합-06560",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06560.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:02:06",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "에어비앤비 실패하지 않고 고르는 법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마흔 넘은 나이에 뱃살이 많아지면 고혈압의 원인이 된다고 하더라구",
+    "scriptId" : "일반통합-08534",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08534.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:23:54",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이거 떡메잖아 너 떡메가 뭔지 몰라",
+    "scriptId" : "소아남녀-01153",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01153.wav",
+    "recrdTime" : "2.820",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:38:43",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "내 물건"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그것도 맛 들이면 맛있어 그리고 그건 피가 아니고 육즙이야",
+    "scriptId" : "일반통합-08108",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08108.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:54:58",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "스테이크 잘 굽는 법 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

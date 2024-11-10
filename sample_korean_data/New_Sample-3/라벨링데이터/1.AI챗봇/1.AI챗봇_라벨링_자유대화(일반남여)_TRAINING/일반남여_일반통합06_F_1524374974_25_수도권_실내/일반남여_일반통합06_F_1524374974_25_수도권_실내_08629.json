@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "내가 요즘 살이 좀 많이 쪘는데 그래서 무릎에 더 부담이 가는 것 같기도 해",
+    "scriptId" : "일반통합-08629",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08629.wav",
+    "recrdTime" : "6.570",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:08:27",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

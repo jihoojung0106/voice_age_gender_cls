@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "뜨거운 물을 부었을 때 안쪽 용기는 열이 밖으로 나가지 않게 도와주는 용도 ",
+    "scriptId" : "일반통합-09098",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_09098.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 16:29:32",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "라면의 비밀"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

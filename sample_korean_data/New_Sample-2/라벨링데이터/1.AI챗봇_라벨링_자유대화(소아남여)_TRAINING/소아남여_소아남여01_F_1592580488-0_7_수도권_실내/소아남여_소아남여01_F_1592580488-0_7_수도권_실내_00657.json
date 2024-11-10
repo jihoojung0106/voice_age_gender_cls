@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "길 건너면 큰 슈퍼마켓이 있어",
+    "scriptId" : "소아남녀-00657",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00657.wav",
+    "recrdTime" : "3.840",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-21 11:03:36",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "집 주변"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

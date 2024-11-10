@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음식도 신경을 좀 써야할 것 같은데 특별히 좋은 음식이 있나 ",
+    "scriptId" : "일반통합-08647",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08647.wav",
+    "recrdTime" : "5.370",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:09:48",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

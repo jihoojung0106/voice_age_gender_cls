@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "너무 (SP:작)아서 잘 안 보(SP:여)요 ",
+    "scriptId" : "소아남녀-01634",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01634.wav",
+    "recrdTime" : "2.470",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-18 17:08:39",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "시각"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

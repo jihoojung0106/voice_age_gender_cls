@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "엠엠에프형은 이자가 가장 높지만 그만큼 위험도 크니 지금은 무리일 거 같고",
+    "scriptId" : "일반통합-06612",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06612.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 18:08:33",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

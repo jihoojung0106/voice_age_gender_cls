@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다른 블록을 건드리면 되고 블록 하나씩 빼서 위에다가 다시 놓아",
+    "scriptId" : "소아남녀-01248",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01248.wav",
+    "recrdTime" : "5.630",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 17:15:30",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "젠가"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

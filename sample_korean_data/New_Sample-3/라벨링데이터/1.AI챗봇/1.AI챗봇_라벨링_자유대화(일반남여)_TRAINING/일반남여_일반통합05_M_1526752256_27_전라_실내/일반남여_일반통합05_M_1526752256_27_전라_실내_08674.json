@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "회복이 느리다 재활이 너무 힘들다 하는 사람들도 있던데 괜찮았어 ",
+    "scriptId" : "일반통합-08674",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08674.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 13:44:10",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "인공관절 수술에 대하여"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

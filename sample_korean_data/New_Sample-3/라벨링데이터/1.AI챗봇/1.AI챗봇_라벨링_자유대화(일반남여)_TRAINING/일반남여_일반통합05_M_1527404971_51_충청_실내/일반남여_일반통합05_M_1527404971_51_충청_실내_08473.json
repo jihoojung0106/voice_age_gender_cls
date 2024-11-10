@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "근데 현대 사회에서 다 나 만큼은 바쁘고 경쟁하면서 사는 거 아니야",
+    "scriptId" : "일반통합-08473",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08473.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:14:02",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "번 아웃 증후군 퇴치법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

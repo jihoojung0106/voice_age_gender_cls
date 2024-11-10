@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아 그러니까 경우의 수가 꽤 많이 나오겠구나 그래서 그걸 맞춰 보는 거야",
+    "scriptId" : "일반통합-08277",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_08277.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-25 12:47:42",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "엠비티아이(MBTI) 유행 이유"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "불고기 만들기 전에 생고기를 김빠진 콜라에 삼십 분 정도 재워(NO:둬서) 잡내도 안나고 부드러웠던 거야",
+    "scriptId" : "일반통합-07128",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07128.wav",
+    "recrdTime" : "10.660",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:00:30",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

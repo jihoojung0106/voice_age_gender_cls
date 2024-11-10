@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이십년 넘게 그림 그린 작가가 인터뷰 한 거 봤는데 이런 빠른 대중들의 반응에 어안이 벙벙하대 ",
+    "scriptId" : "일반통합-07643",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07643.wav",
+    "recrdTime" : "11.860",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:28:44",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "동화책 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

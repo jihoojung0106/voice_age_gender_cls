@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "앤치즈 고구마 스튜 같이 실제 이 항공사에서 제공하는 기내식 메뉴들을 배달해 준대 ",
+    "scriptId" : "일반통합-08890",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08890.wav",
+    "recrdTime" : "8.190",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 13:20:20",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

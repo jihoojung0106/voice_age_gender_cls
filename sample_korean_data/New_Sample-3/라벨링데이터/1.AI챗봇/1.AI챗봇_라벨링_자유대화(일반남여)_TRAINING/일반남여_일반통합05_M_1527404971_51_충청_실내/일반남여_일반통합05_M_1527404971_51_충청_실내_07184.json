@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "요즘 휴게소는 단순히 쉬어가는 곳이 아니라 지역 명물이라고 해도 손색이 없겠다 ",
+    "scriptId" : "일반통합-07184",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07184.wav",
+    "recrdTime" : "6.480",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-01 17:39:49",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

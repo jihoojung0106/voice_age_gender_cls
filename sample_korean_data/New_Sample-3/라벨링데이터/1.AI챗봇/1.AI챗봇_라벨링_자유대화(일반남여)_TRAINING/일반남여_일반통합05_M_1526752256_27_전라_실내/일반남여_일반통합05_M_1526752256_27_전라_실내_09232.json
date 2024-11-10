@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 그랬대 제주도에 당시 해병들이 주둔했는데 제주도 여자들이 백 명이 넘게 지원했대",
+    "scriptId" : "일반통합-09232",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_09232.wav",
+    "recrdTime" : "9.300",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-05 22:44:55",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "한국전쟁 당시 참전 여성들"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

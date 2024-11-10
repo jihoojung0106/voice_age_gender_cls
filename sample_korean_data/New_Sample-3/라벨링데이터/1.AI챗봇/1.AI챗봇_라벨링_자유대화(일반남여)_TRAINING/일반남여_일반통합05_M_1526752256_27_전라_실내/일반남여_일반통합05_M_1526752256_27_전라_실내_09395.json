@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "흘러가는 대로 잠깐 둬도 인생 안 망가지니 일단 좀 쉬어가는 타임으로 생각해",
+    "scriptId" : "일반통합-09395",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_09395.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-05 22:58:46",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

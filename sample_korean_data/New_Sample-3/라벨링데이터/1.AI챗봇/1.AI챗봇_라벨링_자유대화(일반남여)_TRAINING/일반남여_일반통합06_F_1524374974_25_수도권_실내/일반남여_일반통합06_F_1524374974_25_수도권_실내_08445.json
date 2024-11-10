@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "사실 난 (NO:경쟁심이 너무 강해서 경쟁을 피하거든) 날 통제하지 못할 거 같아서 ",
+    "scriptId" : "일반통합-08445",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08445.wav",
+    "recrdTime" : "7.080",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:16:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경쟁심의 명과 암"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

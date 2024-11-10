@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이거 아침에 먹었던 거라 또 먹기 싫은데 딴 거 주세요",
+    "scriptId" : "소아남녀-01213",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01213.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 08:20:49",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "질문 및 요청"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

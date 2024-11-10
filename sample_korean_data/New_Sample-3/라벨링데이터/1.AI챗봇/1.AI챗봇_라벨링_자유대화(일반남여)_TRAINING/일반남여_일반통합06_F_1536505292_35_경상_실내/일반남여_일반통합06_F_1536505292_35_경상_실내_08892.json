@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "때 맛본 기내식의 맛을 그리워하는 사람들이 꽤 많이 이용한다는데 ",
+    "scriptId" : "일반통합-08892",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_08892.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 13:20:31",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

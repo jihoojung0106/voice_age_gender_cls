@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "배고플 땐 그냥 아무거나 먹어요",
+    "scriptId" : "소아남녀-00288",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00288.wav",
+    "recrdTime" : "4.690",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 12:08:03",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "급식에 관해 얘기하는 상황"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

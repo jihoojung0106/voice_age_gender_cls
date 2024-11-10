@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "나도 그런데 무릎이 인체의 다른 부위에 비해 운동성이 큰 관절이라 노화가 빨리 시작된다더라고",
+    "scriptId" : "일반통합-08618",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08618.wav",
+    "recrdTime" : "10.750",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 18:34:45",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

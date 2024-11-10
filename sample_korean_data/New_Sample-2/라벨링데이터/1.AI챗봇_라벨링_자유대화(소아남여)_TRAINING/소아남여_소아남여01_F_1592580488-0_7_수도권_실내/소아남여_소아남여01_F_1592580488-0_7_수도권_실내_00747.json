@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "귀에 물 잘 빼야해 ",
+    "scriptId" : "소아남녀-00747",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00747.wav",
+    "recrdTime" : "3.410",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-21 11:28:24",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "수영장"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "카르카손 해 봤어 재밌는데 ",
+    "scriptId" : "소아남녀-00098",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00098.wav",
+    "recrdTime" : "4.440",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 19:32:10",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "보드 게임"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

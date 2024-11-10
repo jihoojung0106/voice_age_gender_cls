@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)이거 내가 되게 아끼는 건데 너 줄게 ",
+    "scriptId" : "소아남녀-01147",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01147.wav",
+    "recrdTime" : "4.350",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 16:37:00",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "장난감"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

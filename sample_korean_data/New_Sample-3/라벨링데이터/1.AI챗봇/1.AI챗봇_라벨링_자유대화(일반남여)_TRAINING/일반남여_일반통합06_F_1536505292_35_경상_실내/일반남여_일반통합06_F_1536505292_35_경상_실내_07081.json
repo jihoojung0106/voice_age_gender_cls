@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "옆에 차 보이지 그 차와 일미터 거리를 두고 진입한다고 생각하는 거야",
+    "scriptId" : "일반통합-07081",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_07081.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 08:21:06",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "운전 초보자 주차하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

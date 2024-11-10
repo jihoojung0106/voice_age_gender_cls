@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니야 칼럼리스트같은데 영국 가디언지에 '뉴스는 당신에게 해롭다'라는 이름으로 연재한거래 ",
+    "scriptId" : "일반통합-08226",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08226.wav",
+    "recrdTime" : "10.150",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 17:34:06",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "뉴스 다이어트 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

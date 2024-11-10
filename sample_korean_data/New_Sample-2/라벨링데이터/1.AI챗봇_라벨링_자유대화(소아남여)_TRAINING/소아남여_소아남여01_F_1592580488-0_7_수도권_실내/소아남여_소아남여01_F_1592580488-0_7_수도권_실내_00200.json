@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "다음 달에 태권도 승격심사가 있어서 열심히 연습하고 있어요 ",
+    "scriptId" : "소아남녀-00200",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00200.wav",
+    "recrdTime" : "9.980",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 20:13:52",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기 소개하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그러게 말이야 나두 기웃거렸는데 잘 모르겠어서 못 사겠더라 ",
+    "scriptId" : "일반통합-08125",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08125.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 16:28:16",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "심지어 더러워진 옷을 세탁할 수 있는 코인 세탹실을 갖춘 휴게실도 있다고",
+    "scriptId" : "일반통합-07201",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07201.wav",
+    "recrdTime" : "9.040",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:09:15",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "고속도로 휴게소 백배 이용하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

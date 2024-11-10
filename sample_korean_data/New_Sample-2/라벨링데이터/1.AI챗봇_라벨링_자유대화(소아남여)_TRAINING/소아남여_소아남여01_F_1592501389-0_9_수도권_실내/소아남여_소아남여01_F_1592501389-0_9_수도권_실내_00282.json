@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "친구는 방과후 수업에서 가야금을 배워요",
+    "scriptId" : "소아남녀-00282",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00282.wav",
+    "recrdTime" : "3.670",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 22:55:37",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "방과후 수업"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

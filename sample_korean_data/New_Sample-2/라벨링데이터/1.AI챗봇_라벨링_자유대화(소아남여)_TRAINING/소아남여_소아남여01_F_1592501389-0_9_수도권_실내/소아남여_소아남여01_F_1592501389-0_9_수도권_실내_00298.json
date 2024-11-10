@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "학교에 나오는 급식 반찬이 너무 맛있어서 밥을 다 먹었어요 ",
+    "scriptId" : "소아남녀-00298",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00298.wav",
+    "recrdTime" : "4.090",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 23:00:57",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "급식에 관해 얘기하는 상황"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

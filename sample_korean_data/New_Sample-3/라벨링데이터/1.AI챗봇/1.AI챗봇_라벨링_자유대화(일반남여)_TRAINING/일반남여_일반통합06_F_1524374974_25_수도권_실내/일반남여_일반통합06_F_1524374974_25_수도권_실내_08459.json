@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "(NO:)(NO:너는) 그냥 경쟁 속으로 뛰어들어 넌 그럴만한 배포가 있잖아 ",
+    "scriptId" : "일반통합-08459",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08459.wav",
+    "recrdTime" : "5.120",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:53:17",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "경쟁심의 명과 암"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "얼마 전에 아파트 인테리어를 새로 했는데 그때 바이란다에 방수 시트를 깔았거든요",
+    "scriptId" : "일반통합-06776",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06776.wav",
+    "recrdTime" : "8.870",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:33:29",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "베란다에 텃밭 가꾸기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

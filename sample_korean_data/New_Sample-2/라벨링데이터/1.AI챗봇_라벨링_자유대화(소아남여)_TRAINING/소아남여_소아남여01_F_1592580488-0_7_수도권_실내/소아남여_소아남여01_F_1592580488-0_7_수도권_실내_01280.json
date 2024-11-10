@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "안나가 엘사한테 눈사람 만들자고 하는데 엘사가 안 해줬어요",
+    "scriptId" : "소아남녀-01280",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01280.wav",
+    "recrdTime" : "9.810",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-24 08:54:47",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "겨울왕국"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

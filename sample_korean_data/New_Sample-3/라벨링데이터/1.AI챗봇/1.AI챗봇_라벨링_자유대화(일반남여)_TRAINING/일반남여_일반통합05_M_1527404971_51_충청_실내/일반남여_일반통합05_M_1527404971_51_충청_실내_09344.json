@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "심지어 비포장도로를 달려도 차체는 크게 더러워지지 않고 ",
+    "scriptId" : "일반통합-09344",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_09344.wav",
+    "recrdTime" : "6.060",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-04 11:11:53",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "드라마 피피엘"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

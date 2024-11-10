@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "당연하지 그 영국 할아버지야 미국 복권에 당첨됐으니까 당첨금도 어마어마했지만 ",
+    "scriptId" : "일반통합-09192",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09192.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 19:46:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "내가 복권에 당첨된다면? "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

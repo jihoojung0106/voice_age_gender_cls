@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그것도 아닌가 봐 대만에서도 비슷한 상품이 나왔는데 티켓 백팔십여덟 장이 삼십 초만에 팔렸다는데 ",
+    "scriptId" : "일반통합-08884",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08884.wav",
+    "recrdTime" : "11.520",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:41:03",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나 시대의 이색 여행 상품"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

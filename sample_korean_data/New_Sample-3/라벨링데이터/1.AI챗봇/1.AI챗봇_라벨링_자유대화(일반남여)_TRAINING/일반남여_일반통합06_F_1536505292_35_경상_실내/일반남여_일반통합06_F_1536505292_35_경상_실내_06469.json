@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아침에 출근해서 커피를 안 마시면 정신이 안 드니 포기할 수도 없고",
+    "scriptId" : "일반통합-06469",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06469.wav",
+    "recrdTime" : "7.420",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:29:44",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피 싸게 마시는 방법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

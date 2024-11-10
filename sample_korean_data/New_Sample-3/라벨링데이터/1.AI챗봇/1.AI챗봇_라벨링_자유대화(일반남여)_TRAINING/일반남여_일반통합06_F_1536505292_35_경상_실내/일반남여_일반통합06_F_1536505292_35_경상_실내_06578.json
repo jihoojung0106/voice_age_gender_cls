@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "은행에서 만든 입출금통장과 같은 방식으로 사용할 수 있고 출금도 자유로워",
+    "scriptId" : "일반통합-06578",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06578.wav",
+    "recrdTime" : "7.680",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 15:49:05",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "CMA 통장이 뭐야"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

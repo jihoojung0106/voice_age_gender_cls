@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "일교시부터 배가 아팠는데 괜찮아질 줄 알고 참았어요 ",
+    "scriptId" : "소아남녀-00274",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00274.wav",
+    "recrdTime" : "12.110",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 22:51:07",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "보건실"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

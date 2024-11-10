@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아니 침대는 영 불편하다고 꼭 요를 깔고 주무시던데 왜 ",
+    "scriptId" : "일반통합-08699",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08699.wav",
+    "recrdTime" : "7.000",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:10:00",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "인공관절 수술에 대하여"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

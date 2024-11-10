@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "식사 중이나 식후에 바로 마시는 커피는 철분 흡수를 방해하거든 ",
+    "scriptId" : "일반통합-08782",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08782.wav",
+    "recrdTime" : "6.140",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 16:34:52",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "커피, 이렇게 마시면 최악!"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

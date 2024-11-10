@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이모 집에 가면 제가 좋아하는 사촌들과 놀 수 있어서 벌써 부터 기대가되요 ",
+    "scriptId" : "소아남녀-00165",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_00165.wav",
+    "recrdTime" : "7.510",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-13 18:58:48",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "가족 소개하기"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

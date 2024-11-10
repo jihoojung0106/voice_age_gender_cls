@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "그런데 나를 움직이는 동인은 나라는 거야 내가 멋진 커리어를 가진 전문가가 되어야 겠다 이런 목표가 있는 거지 ",
+    "scriptId" : "일반통합-08476",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08476.wav",
+    "recrdTime" : "8.020",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:54:24",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "번 아웃 증후군 퇴치법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

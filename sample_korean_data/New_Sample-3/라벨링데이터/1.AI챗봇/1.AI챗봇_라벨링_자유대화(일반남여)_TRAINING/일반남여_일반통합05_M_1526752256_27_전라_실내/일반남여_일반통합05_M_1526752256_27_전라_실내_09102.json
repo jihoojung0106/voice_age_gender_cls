@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "이에 분해 되려면 백년은 걸린다던데 내가 환경에 큰 죄를 짓는 것 같고",
+    "scriptId" : "일반통합-09102",
+    "fileNm" : "일반남여_일반통합05_M_1526752256_27_전라_실내_09102.wav",
+    "recrdTime" : "7.590",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-28 23:22:23",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "전라",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "라면의 비밀"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1526752256",
+    "age" : 27
+  }
+}

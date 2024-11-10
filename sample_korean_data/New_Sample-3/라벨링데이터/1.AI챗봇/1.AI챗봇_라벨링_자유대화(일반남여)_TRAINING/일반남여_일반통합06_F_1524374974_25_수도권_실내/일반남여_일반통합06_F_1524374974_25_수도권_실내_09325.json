@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "돈을 많이 버는 마약제조범이 안탈 것 같은 눈에 띄지 않는 차가 필요했던 거겠지",
+    "scriptId" : "일반통합-09325",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09325.wav",
+    "recrdTime" : "6.400",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:10:42",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "드라마 피피엘"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

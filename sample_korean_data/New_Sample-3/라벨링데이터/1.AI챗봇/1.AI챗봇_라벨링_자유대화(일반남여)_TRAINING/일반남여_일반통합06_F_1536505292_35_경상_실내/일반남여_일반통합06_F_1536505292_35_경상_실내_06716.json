@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아보카도에 달걀후라이를 얹어서 간장 약간 참기름 약간 넣고 비벼 먹으면 꿀맛이에요",
+    "scriptId" : "일반통합-06716",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_06716.wav",
+    "recrdTime" : "11.770",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-27 21:26:08",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "아보카도, 피부에 양보하세요"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

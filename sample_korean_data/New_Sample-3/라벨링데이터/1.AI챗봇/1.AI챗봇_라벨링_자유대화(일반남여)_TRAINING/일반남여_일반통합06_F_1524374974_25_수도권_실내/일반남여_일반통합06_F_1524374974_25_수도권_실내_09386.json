@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "하고 싶어서 안달나고 그랬는데 지금은 스트레스로 너무 힘들어서 온몸에서 경련이 나더라고",
+    "scriptId" : "일반통합-09386",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09386.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:30:13",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "퇴직 고민"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

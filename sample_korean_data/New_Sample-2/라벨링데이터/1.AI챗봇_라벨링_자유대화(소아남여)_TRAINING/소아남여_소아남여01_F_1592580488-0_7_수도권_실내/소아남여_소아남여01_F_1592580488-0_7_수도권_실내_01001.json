@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "음식을 먹을 땐 조용히 먹어야 해요",
+    "scriptId" : "소아남녀-01001",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01001.wav",
+    "recrdTime" : "4.610",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-22 14:01:11",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "영화관"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

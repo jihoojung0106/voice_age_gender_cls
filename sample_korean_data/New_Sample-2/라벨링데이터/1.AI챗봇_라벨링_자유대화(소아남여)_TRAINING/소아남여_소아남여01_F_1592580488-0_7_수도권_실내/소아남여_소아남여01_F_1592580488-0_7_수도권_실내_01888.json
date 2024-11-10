@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "밥 먹고 씻으면 안돼요 ",
+    "scriptId" : "소아남녀-01888",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_01888.wav",
+    "recrdTime" : "2.986",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-25 10:47:43",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "세수와 양치질을 할 때 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "마이크 있는데 노래 하자 ",
+    "scriptId" : "소아남녀-00115",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00115.wav",
+    "recrdTime" : "3.500",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-19 19:36:00",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "노래, 춤"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

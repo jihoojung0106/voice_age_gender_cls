@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 내가 본 건 미국 (NO:어느 목사님이) 구십이 세인데 (NO:시험자로) 나섰(NO:더라고)",
+    "scriptId" : "일반통합-08128",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08128.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 20:56:16",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "코로나백신 시험 지원자"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

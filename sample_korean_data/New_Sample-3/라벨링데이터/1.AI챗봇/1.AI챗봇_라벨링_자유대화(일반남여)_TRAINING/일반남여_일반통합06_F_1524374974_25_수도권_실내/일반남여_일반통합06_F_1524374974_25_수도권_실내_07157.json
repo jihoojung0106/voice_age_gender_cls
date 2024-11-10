@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "녹슨 볼트와 같은 원리인데 가스(NO:레인지에) 콜라를 부어서 기름때를 분리시켜 준 후 닦아내야 더 깨끗해진다고",
+    "scriptId" : "일반통합-07157",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_07157.wav",
+    "recrdTime" : "12.540",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-31 01:04:50",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "김빠진 콜라 활용법"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

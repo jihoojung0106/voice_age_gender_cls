@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "아마 그럴걸 이십대 미국 남성들에게 어필하는 캐릭터가 그렇다고 분석해 놓은 기사 봤어 ",
+    "scriptId" : "일반통합-09331",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_09331.wav",
+    "recrdTime" : "6.310",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 21:23:20",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "드라마 피피엘"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

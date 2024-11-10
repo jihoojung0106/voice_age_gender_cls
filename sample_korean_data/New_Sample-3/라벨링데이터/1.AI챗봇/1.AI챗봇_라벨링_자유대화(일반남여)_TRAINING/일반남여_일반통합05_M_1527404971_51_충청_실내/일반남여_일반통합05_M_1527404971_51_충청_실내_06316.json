@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "말린다고 말렸는데 제대로 마르지 않았는지 신발장에 안에 넣어뒀는데 곰팡이가 폈어",
+    "scriptId" : "일반통합-06316",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_06316.wav",
+    "recrdTime" : "10.408",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-30 13:00:28",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "장마철 젖은 물건 관리하기"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

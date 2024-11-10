@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "저는 유투브에 아이돌 보면서 춤을 따라해요  ",
+    "scriptId" : "소아남녀-00228",
+    "fileNm" : "소아남여_소아남여01_F_1592580488-0_7_수도권_실내_00228.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-20 11:44:47",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "자기가 좋아하는 것 소개"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592580488-0",
+    "age" : 7
+  }
+}

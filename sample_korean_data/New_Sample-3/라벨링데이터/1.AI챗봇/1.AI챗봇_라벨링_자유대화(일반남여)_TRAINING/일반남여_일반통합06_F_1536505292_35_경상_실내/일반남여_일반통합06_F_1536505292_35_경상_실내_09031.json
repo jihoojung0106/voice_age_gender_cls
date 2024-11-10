@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "난 역시 밥심이 중요한 한국 사람이라 치킨 먹을 때도 밥이 있어야 돼 ",
+    "scriptId" : "일반통합-09031",
+    "fileNm" : "일반남여_일반통합06_F_1536505292_35_경상_실내_09031.wav",
+    "recrdTime" : "6.740",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-11-29 16:22:51",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "경상",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "맛있는 야식 꿀조합"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1536505292",
+    "age" : 35
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "거기 가서 배운 말이 바로 돌은 낭의지 낭은 돌의지 란 말이야 ",
+    "scriptId" : "일반통합-07701",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_07701.wav",
+    "recrdTime" : "6.650",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-02 21:37:32",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "제주어 배우기 "
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

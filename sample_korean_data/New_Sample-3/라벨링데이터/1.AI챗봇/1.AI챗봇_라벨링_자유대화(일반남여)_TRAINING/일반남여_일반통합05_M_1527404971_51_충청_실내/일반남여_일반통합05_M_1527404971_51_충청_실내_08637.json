@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "하루에 삼십 분에서 한 시간 정도 꾸준히 걷기만 해도 관절 주위 근육이 튼튼해질 수 있대 ",
+    "scriptId" : "일반통합-08637",
+    "fileNm" : "일반남여_일반통합05_M_1527404971_51_충청_실내_08637.wav",
+    "recrdTime" : "9.300",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-03 20:03:10",
+    "scriptSetNo" : "T_일반통합_5"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "충청",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "무릎 통증 관리"
+  },
+  "녹음자정보" : {
+    "gender" : "남",
+    "recorderId" : "1527404971",
+    "age" : 51
+  }
+}

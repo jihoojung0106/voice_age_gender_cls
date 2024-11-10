@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "태권도 (SP:)품띠 (SP:)심사에서 떨어져서 그만 다니고 싶어요",
+    "scriptId" : "소아남녀-01228",
+    "fileNm" : "소아남여_소아남여01_F_1592501389-0_9_수도권_실내_01228.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-15 17:06:39",
+    "scriptSetNo" : "T_소아남녀_1"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "iOS",
+    "convrsThema" : "질문 및 요청"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1592501389-0",
+    "age" : 9
+  }
+}

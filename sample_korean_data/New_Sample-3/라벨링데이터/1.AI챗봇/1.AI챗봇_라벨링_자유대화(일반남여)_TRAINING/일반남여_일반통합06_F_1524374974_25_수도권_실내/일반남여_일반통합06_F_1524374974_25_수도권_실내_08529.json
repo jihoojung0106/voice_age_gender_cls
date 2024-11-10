@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "몸에 좋은 음식을 기준으로 하기 때문에 생선을 먹거나 친환경에서 자란 닭을 먹는 경우도 있어요",
+    "scriptId" : "일반통합-08529",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08529.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 15:58:57",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "비건식단과 채식식단의 차이"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

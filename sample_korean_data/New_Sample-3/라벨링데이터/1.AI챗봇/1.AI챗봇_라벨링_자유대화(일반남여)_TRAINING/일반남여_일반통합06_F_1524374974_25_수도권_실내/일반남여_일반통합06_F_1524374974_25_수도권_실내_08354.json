@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "응 그런 다음에 순서별로 붙이는 거야 그러면 구조가 한 눈에 들어오잖아 ",
+    "scriptId" : "일반통합-08354",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_08354.wav",
+    "recrdTime" : "6.910",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2021-01-05 14:21:21",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "AndroidOS",
+    "convrsThema" : "백지 공포증 극복하기 "
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "발화정보" : {
+    "stt" : "육류도 문제지만 튀김류나 인스턴트 음식이 더 문제야",
+    "scriptId" : "일반통합-06824",
+    "fileNm" : "일반남여_일반통합06_F_1524374974_25_수도권_실내_06824.wav",
+    "recrdTime" : "5.290",
+    "recrdQuality" : "16K",
+    "recrdDt" : "2020-12-30 23:55:26",
+    "scriptSetNo" : "T_일반통합_6"
+  },
+  "대화정보" : {
+    "recrdEnvrn" : "실내",
+    "colctUnitCode" : "AI 챗봇",
+    "cityCode" : "수도권",
+    "recrdUnit" : "Windows 10",
+    "convrsThema" : "변비에 좋은 음식"
+  },
+  "녹음자정보" : {
+    "gender" : "여",
+    "recorderId" : "1524374974",
+    "age" : 25
+  }
+}
