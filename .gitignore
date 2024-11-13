@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.txt
+*.csv
 # C extensions
 *.so
 
@@ -33,11 +34,12 @@ checkpoints/
 *.pt
 *.onnx
 *.pb
+*.model
 
 # TensorBoard log files
 runs/
 events.out.*
-
+sample_korean_data/
 # Large files (data, cache)
 data/
 datasets/
